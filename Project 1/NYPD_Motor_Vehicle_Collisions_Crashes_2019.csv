@@ -1,0 +1,600 @@
+DATE,BOROUGH,LATITUDE,LONGITUDE,LOCATION,ON_STREET_NAME,CROSS STREET NAME,OFF STREET NAME,CONTRIBUTINGFACTOR,CONTRIBUTING FACTOR VEHICLE 2,CONTRIBUTING FACTOR VEHICLE 3,CONTRIBUTING FACTOR VEHICLE 4,CONTRIBUTING FACTOR VEHICLE 5,COLLISION_ID,VEHICLE TYPE CODE 1
+9/1/2019,,,,,NASSAU EXPRESSWAY               ,,,Driver Inattention/Distraction,,,,,4198311,Sedan
+9/1/2019,,40.673676,-73.86576,POINT (-73.86576 40.673676),SUTTER AVENUE                   ,,,Unspecified,,,,,4199346,Sedan
+9/1/2019,,40.8746,-73.9097,POINT (-73.9097 40.8746),BROADWAY                        ,,,Pavement Defective,,,,,4197802,Sedan
+9/1/2019,,,,,GRAND CENTRAL PARKWAY           ,UNION TURNPIKE,,Unspecified,,,,,4199721,Motorcycle
+9/1/2019,BROOKLYN,40.665245,-73.87513,POINT (-73.87513 40.665245),LINDEN BOULEVARD                ,ATKINS AVENUE,,Following Too Closely,Unspecified,,,,4199339,Sedan
+9/1/2019,BRONX,,,,EAST FORDHAM ROAD               ,BELMONT AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4199427,Station Wagon/Sport Utility Vehicle
+9/1/2019,STATEN ISLAND,40.55232,-74.190956,POINT (-74.190956 40.55232),,,260       ARDEN AVENUE                  ,View Obstructed/Limited,Unspecified,,,,4198162,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.74915,-73.98828,POINT (-73.98828 40.74915),AVENUE OF THE AMERICAS          ,,,Traffic Control Disregarded,,,,,4201656,Taxi
+9/1/2019,BRONX,40.873394,-73.90671,POINT (-73.90671 40.873394),WEST 225 STREET                 ,EXTERIOR STREET,,Driver Inattention/Distraction,Unspecified,,,,4198003,Sedan
+9/1/2019,BRONX,40.853024,-73.88407,POINT (-73.88407 40.853024),,,2358      CROTONA AVENUE                ,Driver Inattention/Distraction,Unspecified,,,,4197979,Sedan
+9/1/2019,,40.836437,-73.91842,POINT (-73.91842 40.836437),WALTON AVENUE                   ,,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198170,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.822105,-73.90062,POINT (-73.90062 40.822105),PROSPECT AVENUE                 ,EAST 163 STREET,,Unspecified,Unspecified,,,,4198144,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.83394,-73.9087,POINT (-73.9087 40.83394),EAST 169 STREET                 ,,,Unspecified,,,,,4198190,Sedan
+9/1/2019,BROOKLYN,40.70207,-73.94423,POINT (-73.94423 40.70207),,,672       BROADWAY                      ,Unsafe Speed,Unspecified,Unspecified,,,4198832,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.70145,-73.989624,POINT (-73.989624 40.70145),BROOKLYN QUEENS EXPRESSWAY      ,,,Unsafe Lane Changing,Unspecified,,,,4200946,Taxi
+9/1/2019,,40.696198,-73.98869,POINT (-73.98869 40.696198),ADAMS STREET                    ,,,Unsafe Lane Changing,Unsafe Speed,,,,4199595,Taxi
+9/1/2019,,40.738194,-73.8492,POINT (-73.8492 40.738194),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Unspecified,,,,4198039,Taxi
+9/1/2019,BRONX,40.809105,-73.9229,POINT (-73.9229 40.809105),EAST 138 STREET                 ,WILLIS AVENUE,,Unspecified,Unspecified,,,,4198258,Sedan
+9/1/2019,QUEENS,40.70678,-73.90888,POINT (-73.90888 40.70678),,,565       WOODWARD AVENUE               ,Passing or Lane Usage Improper,Unspecified,Unspecified,,,4197863,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.66484,-73.82229,POINT (-73.82229 40.66484),BELT PARKWAY                    ,,,Other Vehicular,,,,,4198309,Motorcycle
+9/1/2019,QUEENS,40.668026,-73.78108,POINT (-73.78108 40.668026),ROCKAWAY BOULEVARD              ,140 AVENUE,,,,,,,4201281,
+9/1/2019,,40.811367,-73.95402,POINT (-73.95402 40.811367),MORNINGSIDE AVENUE              ,WEST 125 STREET,,Other Vehicular,,,,,4203076,Taxi
+9/1/2019,BROOKLYN,40.68665,-73.91315,POINT (-73.91315 40.68665),BUSHWICK AVENUE                 ,ELDERT STREET,,Traffic Control Disregarded,Traffic Control Disregarded,Unspecified,Unspecified,,4198868,Sedan
+9/1/2019,,40.613922,-73.89704,POINT (-73.89704 40.613922),BELT PARKWAY                    ,,,Following Too Closely,Unspecified,,,,4198593,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,HUTCHINSON RIVER PARKWAY RAMP   ,,,Unspecified,Unspecified,,,,4198959,Sedan
+9/1/2019,BROOKLYN,40.627903,-73.92104,POINT (-73.92104 40.627903),,,1021      EAST 57 STREET                ,Unspecified,Unspecified,,,,4198304,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.716675,-73.75502,POINT (-73.75502 40.716675),207 STREET                      ,93 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4197897,Sedan
+9/1/2019,,40.74106,-73.946106,POINT (-73.946106 40.74106),LONG ISLAND EXPRESSWAY          ,,,Unsafe Lane Changing,Unspecified,,,,4198914,Sedan
+9/1/2019,,40.787174,-73.81349,POINT (-73.81349 40.787174),CROSS ISLAND PARKWAY            ,,,Failure to Yield Right-of-Way,Following Too Closely,,,,4198628,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.696785,-73.95659,POINT (-73.95659 40.696785),BEDFORD AVENUE                  ,,,Driver Inattention/Distraction,Unspecified,,,,4201792,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.698345,-73.890205,POINT (-73.890205 40.698345),COOPER AVENUE                   ,64 LANE,,Unspecified,Unspecified,,,,4198080,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,LINDEN BOULEVARD                ,235 STREET,,Unspecified,,,,,4198056,Sedan
+9/1/2019,,,,,FERRY TERMINAL DRIVE            ,RICHMOND TERRACE,,Unspecified,,,,,4198655,Sedan
+9/1/2019,,40.69878,-73.91178,POINT (-73.91178 40.69878),PALMETTO STREET                 ,,,Unspecified,Unspecified,,,,4198864,Bus
+9/1/2019,MANHATTAN,40.71891,-73.999245,POINT (-73.999245 40.71891),CENTRE STREET                   ,HOWARD STREET,,Driver Inattention/Distraction,Unspecified,,,,4198235,Sedan
+9/1/2019,BRONX,40.8396,-73.86922,POINT (-73.86922 40.8396),EAST TREMONT AVENUE             ,COMMONWLTH AVENUE,,Unspecified,Unspecified,,,,4197920,Taxi
+9/1/2019,,40.74543,-73.84748,POINT (-73.84748 40.74543),GRAND CENTRAL PKWY              ,,,Driver Inattention/Distraction,Unspecified,,,,4197966,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.71997,-73.992905,POINT (-73.992905 40.71997),DELANCEY STREET                 ,CHRYSTIE STREET,,Other Vehicular,Other Vehicular,,,,4202456,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.759243,-73.9847,POINT (-73.9847 40.759243),,,6         TIMES SQUARE                  ,Unspecified,Unspecified,,,,4198394,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.70226,-73.840034,POINT (-73.840034 40.70226),,,109-72    PARK LANE SOUTH               ,Driver Inattention/Distraction,,,,,4201352,Sedan
+9/1/2019,MANHATTAN,40.76318,-73.98437,POINT (-73.98437 40.76318),,,266       WEST 52 STREET                ,Unsafe Lane Changing,Unspecified,,,,4198735,Sedan
+9/1/2019,,40.719566,-73.94561,POINT (-73.94561 40.719566),GRAHAM AVENUE                   ,MEEKER AVENUE,,Unspecified,Unspecified,,,,4198797,Sedan
+9/1/2019,BROOKLYN,40.67216,-73.98721,POINT (-73.98721 40.67216),4 AVENUE                        ,6 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198189,Box Truck
+9/1/2019,,,,,VERRAZANO BRIDGE UPPER          ,,,Reaction to Uninvolved Vehicle,Following Too Closely,Unspecified,,,4198363,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.676613,-73.89024,POINT (-73.89024 40.676613),,,2816      ATLANTIC AVENUE               ,Unspecified,,,,,4199379,Taxi
+9/1/2019,,40.66644,-73.95361,POINT (-73.95361 40.66644),ROGERS AVENUE                   ,,,Unspecified,Unspecified,,,,4202936,Sedan
+9/1/2019,BROOKLYN,40.650063,-73.90738,POINT (-73.90738 40.650063),,,9701      AVENUE D                      ,Driver Inattention/Distraction,Unspecified,,,,4198148,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.703728,-73.8151,POINT (-73.8151 40.703728),,,140-24    QUEENS BOULEVARD              ,Driver Inattention/Distraction,Unspecified,,,,4198517,Sedan
+9/1/2019,BRONX,40.89466,-73.86137,POINT (-73.86137 40.89466),EAST 233 STREET                 ,BRONX BOULEVARD,,Following Too Closely,Unspecified,,,,4201977,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.89466,-73.86137,POINT (-73.86137 40.89466),EAST 233 STREET                 ,BRONX BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4201967,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.79157,-73.94678,POINT (-73.94678 40.79157),EAST 105 STREET                 ,LEXINGTON AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198420,Bus
+9/1/2019,,40.68025,-73.82223,POINT (-73.82223 40.68025),111 AVENUE                      ,,,Traffic Control Disregarded,Unspecified,Unspecified,Unspecified,,4198315,Sedan
+9/1/2019,,,,,COLLEGE POINT BOULEVARD         ,HARDING EXPRESSWAY,,Passing Too Closely,Passing Too Closely,,,,4198674,Taxi
+9/1/2019,QUEENS,,,,,,66-67     fresh pond road               ,Unspecified,Unspecified,,,,4199113,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.86769,-73.92122,POINT (-73.92122 40.86769),BROADWAY                        ,WEST 207 STREET,,Unspecified,,,,,4198430,Bike
+9/1/2019,QUEENS,40.688362,-73.77663,POINT (-73.77663 40.688362),MERRICK BOULEVARD               ,116 AVENUE,,Alcohol Involvement,Unspecified,,,,4198579,Sedan
+9/1/2019,,40.630684,-74.16175,POINT (-74.16175 40.630684),,,261       LOCKMAN AVENUE                ,Driver Inattention/Distraction,Unspecified,,,,4198482,Sedan
+9/1/2019,QUEENS,40.677444,-73.83242,POINT (-73.83242 40.677444),,,110-42    107 STREET                    ,Passing Too Closely,Unspecified,,,,4198313,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.757362,-73.96068,POINT (-73.96068 40.757362),SUTTON PLACE                    ,EAST 57 STREET,,Turning Improperly,Unspecified,,,,4197677,Sedan
+9/1/2019,BROOKLYN,40.61913,-73.99019,POINT (-73.99019 40.61913),65 STREET                       ,18 AVENUE,,Alcohol Involvement,Unspecified,,,,4198134,Sedan
+9/1/2019,STATEN ISLAND,40.643776,-74.078445,POINT (-74.078445 40.643776),WALL STREET                     ,ACADEMY PLACE,,Unspecified,Unspecified,,,,4198651,Sedan
+9/1/2019,,40.72773,-73.90674,POINT (-73.90674 40.72773),BORDEN AVENUE                   ,MAURICE AVENUE,,Failure to Yield Right-of-Way,Unspecified,,,,4206501,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,UTOPIA PARKWAY                  ,HARDING EXPRESSWAY,,Turning Improperly,Unspecified,,,,4198076,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.748775,-73.80977,POINT (-73.80977 40.748775),PARSONS BOULEVARD               ,ROSE AVENUE,,Failure to Yield Right-of-Way,,,,,4198627,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.657608,-73.94232,POINT (-73.94232 40.657608),WINTHROP STREET                 ,,,Driver Inattention/Distraction,Unspecified,,,,4202408,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.65835,-74.00361,POINT (-74.00361 40.65835),GOWANUS EXPY (BQE)              ,,,Accelerator Defective,Unspecified,,,,4197742,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.887096,-73.83335,POINT (-73.83335 40.887096),,,3705      HARPER AVENUE                 ,Alcohol Involvement,Unspecified,Unspecified,Unspecified,Unspecified,4200699,Sedan
+9/1/2019,,,,,AVENUE OF THE AMERICAS          ,WEST HOUSTON STREET,,Passing Too Closely,Unspecified,,,,4198816,Sedan
+9/1/2019,,,,,WILLIS AVE BRIDGE               ,,,Unspecified,Unspecified,,,,4198284,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.85244,-73.85421,POINT (-73.85421 40.85244),,,1920      TOMLINSON AVENUE              ,Alcohol Involvement,Unspecified,,,,4198738,Sedan
+9/1/2019,QUEENS,40.755398,-73.86918,POINT (-73.86918 40.755398),99 STREET                       ,34 AVENUE,,Following Too Closely,Unspecified,,,,4198718,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,,,,PARK CIRCLE                     ,OCEAN PARKWAY,,Failure to Yield Right-of-Way,Unspecified,,,,4198349,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,STEUBEN STREET                  ,HYLAN BOULEVARD,,Following Too Closely,Unspecified,,,,4197938,Sedan
+9/1/2019,QUEENS,40.707897,-73.76773,POINT (-73.76773 40.707897),,,102-07    FARMERS BOULEVARD             ,Unsafe Speed,Unspecified,,,,4198515,Sedan
+9/1/2019,BROOKLYN,40.617,-73.947,POINT (-73.947 40.617),AVENUE N                        ,EAST 28 STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198125,Sedan
+9/1/2019,BROOKLYN,40.630505,-73.92812,POINT (-73.92812 40.630505),UTICA AVENUE                    ,AVENUE I,,Passing Too Closely,Unspecified,,,,4198133,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.65735,-73.97405,POINT (-73.97405 40.65735),PROSPECT PARK SOUTHWEST         ,16 STREET,,Following Too Closely,Unspecified,,,,4198460,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.638172,-73.98526,POINT (-73.98526 40.638172),14 AVENUE                       ,41 STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4199063,Sedan
+9/1/2019,QUEENS,40.700367,-73.906624,POINT (-73.906624 40.700367),CYPRESS AVENUE                  ,PUTNAM AVENUE,,Failure to Yield Right-of-Way,Unspecified,,,,4197988,Pick-up Truck
+9/1/2019,,40.89193,-73.855156,POINT (-73.855156 40.89193),EAST 232 STREET                 ,BARNES AVENUE,,View Obstructed/Limited,Unspecified,,,,4201976,Sedan
+9/1/2019,,40.829155,-73.93728,POINT (-73.93728 40.829155),WEST 155 STREET                 ,,,Unspecified,,,,,4198100,Sedan
+9/1/2019,BROOKLYN,40.65958,-73.89247,POINT (-73.89247 40.65958),HEGEMAN AVENUE                  ,SHEFFIELD AVENUE,,Failure to Yield Right-of-Way,Unspecified,Unspecified,,,4199334,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.88337,-73.85956,POINT (-73.85956 40.88337),BARNES AVENUE                   ,EAST 220 STREET,,Driver Inattention/Distraction,Unspecified,,,,4201989,Sedan
+9/1/2019,,40.66495,-73.993355,POINT (-73.993355 40.66495),4 AVENUE                        ,,,Unspecified,,,,,4198346,Moped
+9/1/2019,MANHATTAN,40.79193,-73.97191,POINT (-73.97191 40.79193),,,673       AMSTERDAM AVENUE              ,Driver Inattention/Distraction,Unspecified,,,,4199917,Taxi
+9/1/2019,,40.632244,-73.938,POINT (-73.938 40.632244),EAST 40 STREET                  ,AVENUE H,,Other Vehicular,,,,,4198105,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.81847,-73.9414,POINT (-73.9414 40.81847),7 AVENUE                        ,,,Passenger Distraction,Unspecified,,,,4198101,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.712006,-73.919266,POINT (-73.919266 40.712006),FLUSHING AVENUE                 ,CHARLOTTE STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198082,Motorcycle
+9/1/2019,QUEENS,40.678703,-73.781746,POINT (-73.781746 40.678703),LONG STREET                     ,122 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4201286,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.66968,-73.91075,POINT (-73.91075 40.66968),ROCKAWAY AVENUE                 ,PITKIN AVENUE,,Following Too Closely,Unspecified,,,,4199195,Sedan
+9/1/2019,STATEN ISLAND,40.556973,-74.16901,POINT (-74.16901 40.556973),RICHMOND AVENUE                 ,BARLOW AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198164,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.80481,-73.94837,POINT (-73.94837 40.80481),,,106       WEST 120 STREET               ,Passing Too Closely,Oversized Vehicle,,,,4203840,Sedan
+9/1/2019,QUEENS,40.743416,-73.95387,POINT (-73.95387 40.743416),49 AVENUE                       ,VERNON BOULEVARD,,Passenger Distraction,Unspecified,,,,4198910,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.700592,-73.85457,POINT (-73.85457 40.700592),WOODHAVEN BOULEVARD             ,,,Driver Inattention/Distraction,Unspecified,,,,4201149,Sedan
+9/1/2019,,40.79275,-73.97132,POINT (-73.97132 40.79275),WEST 94 STREET                  ,,,Driver Inattention/Distraction,Unspecified,,,,4197944,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.68694,-73.81414,POINT (-73.81414 40.68694),130 STREET                      ,107 AVENUE,,Driver Inexperience,Unspecified,Unspecified,,,4198314,Sedan
+9/1/2019,BRONX,40.85394,-73.91468,POINT (-73.91468 40.85394),LORING PLACE SOUTH              ,WEST BURNSIDE AVENUE,,,,,,,4198255,
+9/1/2019,,40.743427,-73.775475,POINT (-73.775475 40.743427),LONG ISLAND EXPRESSWAY          ,,,Other Vehicular,Driver Inattention/Distraction,,,,4197908,Sedan
+9/1/2019,,,,,THROGS NECK BRIDGE              ,,,Reaction to Uninvolved Vehicle,Following Too Closely,,,,4202193,Sedan
+9/1/2019,QUEENS,40.740498,-73.78696,POINT (-73.78696 40.740498),,,187-04    HORACE HARDING EXPRESSWAY     ,Backing Unsafely,Unspecified,,,,4200260,Sedan
+9/1/2019,,,,,VANWYCK EXPRESSWAY              ,LINDEN BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4198572,Sedan
+9/1/2019,,40.695026,-73.75643,POINT (-73.75643 40.695026),196 STREET                      ,,,Reaction to Uninvolved Vehicle,Unspecified,,,,4198841,Sedan
+9/1/2019,QUEENS,40.670555,-73.85634,POINT (-73.85634 40.670555),79 STREET                       ,LINDEN BOULEVARD,,Driver Inexperience,,,,,4198306,Sedan
+9/1/2019,QUEENS,40.70979,-73.79327,POINT (-73.79327 40.70979),,,168-33    88 AVENUE                     ,Passing Too Closely,Unspecified,,,,4198516,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.834637,-73.85182,POINT (-73.85182 40.834637),,,1315      CASTLE HILL AVENUE            ,Driver Inattention/Distraction,Unspecified,,,,4198242,Sedan
+9/1/2019,BRONX,40.843193,-73.890045,POINT (-73.890045 40.843193),FAIRMOUNT PLACE                 ,PROSPECT AVENUE,,Other Vehicular,Passing or Lane Usage Improper,,,,4198341,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.684494,-73.86169,POINT (-73.86169 40.684494),ATLANTIC AVENUE                 ,78 STREET,,Passing Too Closely,Unspecified,,,,4200675,Sedan
+9/1/2019,MANHATTAN,40.743782,-73.97352,POINT (-73.97352 40.743782),EAST 34 STREET                  ,1 AVENUE,,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Traffic Control Disregarded,,,,4197994,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.751076,-73.997986,POINT (-73.997986 40.751076),,,356       9 AVENUE                      ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198396,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.79935,-73.95908,POINT (-73.95908 40.79935),CENTRAL PARK WEST               ,,,Driver Inattention/Distraction,Unspecified,,,,4197951,Taxi
+9/1/2019,QUEENS,40.74163,-73.9446,POINT (-73.9446 40.74163),25 STREET                       ,49 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198912,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.797943,-73.94003,POINT (-73.94003 40.797943),3 AVENUE                        ,EAST 116 STREET,,Driver Inattention/Distraction,Unspecified,,,,4199486,Sedan
+9/1/2019,QUEENS,40.758743,-73.804214,POINT (-73.804214 40.758743),162 STREET                      ,43 AVENUE,,Passing Too Closely,Unspecified,,,,4198653,Sedan
+9/1/2019,QUEENS,40.7032,-73.7892,POINT (-73.7892 40.7032),LIBERTY AVENUE                  ,169 STREET,,Traffic Control Disregarded,Unsafe Speed,,,,4198537,Sedan
+9/1/2019,MANHATTAN,40.758488,-73.97514,POINT (-73.97514 40.758488),MADISON AVENUE                  ,EAST 51 STREET,,Passing or Lane Usage Improper,Unspecified,,,,4197729,Sedan
+9/1/2019,QUEENS,40.68159,-73.74459,POINT (-73.74459 40.68159),131 AVENUE                      ,223 STREET,,Failure to Yield Right-of-Way,Unspecified,,,,4198058,Sedan
+9/1/2019,QUEENS,40.714767,-73.78722,POINT (-73.78722 40.714767),,,176-05    DALNY ROAD                    ,Unspecified,Unspecified,,,,4197875,Sedan
+9/1/2019,STATEN ISLAND,40.6433,-74.09651,POINT (-74.09651 40.6433),,,226       FILLMORE STREET               ,Unspecified,Unspecified,,,,4198666,Sedan
+9/1/2019,QUEENS,40.680756,-73.813446,POINT (-73.813446 40.680756),LINDEN BOULEVARD                ,127 STREET,,Other Vehicular,Other Vehicular,,,,4197689,Sedan
+9/1/2019,QUEENS,40.740025,-73.786316,POINT (-73.786316 40.740025),,,61-10     188 STREET                    ,Following Too Closely,Driver Inexperience,,,,4198462,Pick-up Truck
+9/1/2019,,40.737553,-73.85089,POINT (-73.85089 40.737553),LONG ISLAND EXPRESSWAY          ,,,Driver Inattention/Distraction,Unspecified,,,,4197983,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,EAST DRIVE                      ,102 CROSS DRIVE,,Unspecified,,,,,4198302,Sedan
+9/1/2019,QUEENS,40.60266,-73.74997,POINT (-73.74997 40.60266),,,18-05     MOTT AVENUE                   ,Driver Inattention/Distraction,Unspecified,,,,4200797,Sedan
+9/1/2019,BROOKLYN,40.68876,-73.98085,POINT (-73.98085 40.68876),FLATBUSH AVENUE                 ,NEVINS STREET,,Driver Inexperience,Unspecified,,,,4197922,Sedan
+9/1/2019,BRONX,40.838875,-73.90266,POINT (-73.90266 40.838875),CLAREMONT PARKWAY               ,WASHINGTON AVENUE,,Passing or Lane Usage Improper,Unspecified,,,,4197695,Sedan
+9/1/2019,,40.676003,-73.865395,POINT (-73.865395 40.676003),CONDUIT BOULEVARD               ,GRANT AVENUE,,Following Too Closely,Unspecified,,,,4199344,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.85154,-73.918335,POINT (-73.918335 40.85154),PALISADE PLACE                  ,POPHAM AVENUE,,Brakes Defective,Unspecified,Unspecified,Unspecified,,4198288,Sedan
+9/1/2019,,40.71493,-73.976494,POINT (-73.976494 40.71493),WILLIAMSBURG BRIDGE             ,ROOSEVELT DRIVE,,Following Too Closely,Unspecified,Unspecified,,,4197791,Sedan
+9/1/2019,BRONX,40.81903,-73.91262,POINT (-73.91262 40.81903),BROOK AVENUE                    ,BERGEN AVENUE,,Unspecified,Unspecified,,,,4198271,Sedan
+9/1/2019,BROOKLYN,40.596424,-73.93649,POINT (-73.93649 40.596424),,,3045      AVENUE W                      ,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,,,,4198649,Sedan
+9/1/2019,QUEENS,40.76066,-73.943306,POINT (-73.943306 40.76066),VERNON BOULEVARD                ,37 AVENUE,,Failure to Yield Right-of-Way,Unspecified,,,,4198216,Taxi
+9/1/2019,BROOKLYN,40.690704,-73.95442,POINT (-73.95442 40.690704),,,10        SPENCER COURT                 ,Oversized Vehicle,Unspecified,,,,4202345,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.655563,-73.87974,POINT (-73.87974 40.655563),FLATLANDS AVENUE                ,SCHENCK AVENUE,,Failure to Yield Right-of-Way,Unspecified,,,,4199345,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.87626,-73.90395,POINT (-73.90395 40.87626),WEST 230 STREET                 ,BAILEY AVENUE,,Turning Improperly,Unspecified,,,,4198445,Sedan
+9/1/2019,,40.845467,-73.92813,POINT (-73.92813 40.845467),CROSS BRONX EXPY                ,,,Driver Inattention/Distraction,Unspecified,,,,4198250,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.66045,-73.86719,POINT (-73.86719 40.66045),FOUNTAIN AVENUE                 ,FLATLANDS AVENUE,,Following Too Closely,Unspecified,,,,4199343,Sedan
+9/1/2019,,40.74183,-73.956894,POINT (-73.956894 40.74183),5 STREET                        ,BORDEN AVENUE,,Passenger Distraction,Driver Inattention/Distraction,,,,4198908,Sedan
+9/1/2019,BRONX,40.857418,-73.899956,POINT (-73.899956 40.857418),GRAND CONCOURSE                 ,EAST 183 STREET,,Alcohol Involvement,Unspecified,,,,4197817,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.721424,-73.96054,POINT (-73.96054 40.721424),KENT AVENUE                     ,NORTH 9 STREET,,Alcohol Involvement,Unspecified,Unspecified,Unspecified,,4198795,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.879936,-73.85915,POINT (-73.85915 40.879936),,,875       EAST 216 STREET               ,Driver Inattention/Distraction,Unspecified,,,,4202110,Sedan
+9/1/2019,QUEENS,40.778732,-73.79369,POINT (-73.79369 40.778732),UTOPIA PARKWAY                  ,21 AVENUE,,Following Too Closely,Unspecified,,,,4197918,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.64258,-73.91974,POINT (-73.91974 40.64258),,,1410      RALPH AVENUE                  ,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198129,Sedan
+9/1/2019,,40.84041,-73.86268,POINT (-73.86268 40.84041),UNIONPORT ROAD                  ,GUERLAIN STREET,,Unspecified,,,,,4203695,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.838223,-73.85459,POINT (-73.85459 40.838223),,,1575      ODELL STREET                  ,Unspecified,,,,,4200783,Sedan
+9/1/2019,BROOKLYN,40.69426,-73.91036,POINT (-73.91036 40.69426),JEFFERSON AVENUE                ,KNICKERBOCKER AVENUE,,Passing Too Closely,Unspecified,,,,4198861,Moped
+9/1/2019,MANHATTAN,40.728966,-73.97687,POINT (-73.97687 40.728966),,,649       EAST 14 STREET                ,Unspecified,,,,,4201138,Sedan
+9/1/2019,BROOKLYN,40.688118,-73.93402,POINT (-73.93402 40.688118),,,760       GATES AVENUE                  ,Unsafe Speed,Unspecified,,,,4199156,Sedan
+9/1/2019,,,,,,,2         WEST 15 PLACE                 ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198293,Sedan
+9/1/2019,BROOKLYN,40.65958,-73.89247,POINT (-73.89247 40.65958),HEGEMAN AVENUE                  ,SHEFFIELD AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4199335,Sedan
+9/1/2019,,40.6229,-74.14943,POINT (-74.14943 40.6229),,,985       RICHMOND AVENUE               ,Unspecified,,,,,4206500,Sedan
+9/1/2019,STATEN ISLAND,40.549374,-74.152664,POINT (-74.152664 40.549374),AMBOY ROAD                      ,LINDENWOOD ROAD,,Following Too Closely,Unspecified,,,,4197939,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.691948,-73.730675,POINT (-73.730675 40.691948),LINDEN BOULEVARD                ,231 STREET,,Unspecified,Unspecified,Unspecified,,,4198079,Sedan
+9/1/2019,BROOKLYN,40.697727,-73.92454,POINT (-73.92454 40.697727),CENTRAL AVENUE                  ,STOCKHOLM STREET,,Following Too Closely,Backing Unsafely,,,,4198820,Taxi
+9/1/2019,,40.719013,-73.79419,POINT (-73.79419 40.719013),GRAND CENTRAL PARKWAY           ,172 STREET,,Following Too Closely,Unspecified,,,,4198980,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.61674,-74.143265,POINT (-74.143265 40.61674),WATCHOGUE ROAD                  ,COLLFIELD AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198167,Pick-up Truck
+9/1/2019,,40.768684,-73.90562,POINT (-73.90562 40.768684),45 STREET                       ,,,Driver Inattention/Distraction,Unspecified,,,,4198220,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.8165,-73.946556,POINT (-73.946556 40.8165),WEST 135 STREET                 ,,,Outside Car Distraction,Unspecified,,,,4198103,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.666836,-73.7664,POINT (-73.7664 40.666836),BELT PARKWAY                    ,,,Following Too Closely,Following Too Closely,Following Too Closely,,,4198066,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,COLLEGE POINT BOULEVARD         ,HARDING EXPRESSWAY,,Failure to Yield Right-of-Way,Failure to Yield Right-of-Way,,,,4198652,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,,,,DITMAS AVENUE                   ,OCEAN PARKWAY,,Unspecified,Unspecified,,,,4199069,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.673782,-73.87405,POINT (-73.87405 40.673782),BELMONT AVENUE                  ,CRYSTAL STREET,,Alcohol Involvement,Unspecified,,,,4200356,Sedan
+9/1/2019,,40.753788,-73.744286,POINT (-73.744286 40.753788),CROSS ISLAND PARKWAY            ,,,Unsafe Lane Changing,Unspecified,,,,4197972,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.743156,-73.97213,POINT (-73.97213 40.743156),FDR DRIVE                       ,EAST 34 STREET,,Driver Inattention/Distraction,,,,,4200393,Pick-up Truck
+9/1/2019,BRONX,40.86502,-73.89277,POINT (-73.89277 40.86502),BRIGGS AVENUE                   ,EAST 194 STREET,,Unspecified,,,,,4198504,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.7549,-73.74548,POINT (-73.74548 40.7549),CROSS ISLAND PARKWAY            ,,,Passing or Lane Usage Improper,Unspecified,,,,4198438,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.634792,-73.890816,POINT (-73.890816 40.634792),,,1962      ROCKAWAY PARKWAY              ,Unspecified,,,,,4197825,
+9/1/2019,,40.67582,-73.930466,POINT (-73.930466 40.67582),UTICA AVENUE                    ,,,Unspecified,Unspecified,,,,4199661,Pick-up Truck
+9/1/2019,BRONX,40.86949,-73.84439,POINT (-73.84439 40.86949),,,1432      EAST GUN HILL ROAD            ,Driver Inattention/Distraction,Unspecified,,,,4198729,Sedan
+9/1/2019,MANHATTAN,40.769608,-73.98569,POINT (-73.98569 40.769608),,,425       WEST 59 STREET                ,Driver Inattention/Distraction,Unspecified,,,,4198342,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,69 ROAD                         ,GRAND CENTRAL PARKWAY,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4197985,Sedan
+9/1/2019,MANHATTAN,40.74703,-73.99722,POINT (-73.99722 40.74703),,,316       8 AVENUE                      ,Failure to Yield Right-of-Way,Following Too Closely,,,,4199321,Taxi
+9/1/2019,,,,,VANWYCK EXPRESSWAY              ,UNION TURNPIKE,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198463,Sedan
+9/1/2019,,40.808224,-73.93673,POINT (-73.93673 40.808224),EAST 130 STREET                 ,,,Traffic Control Disregarded,Unspecified,,,,4198140,Sedan
+9/1/2019,,40.7699,-73.91608,POINT (-73.91608 40.7699),GRAND CENTRAL PKWY              ,,,Following Too Closely,Unspecified,,,,4198222,Sedan
+9/1/2019,QUEENS,40.74573,-73.90212,POINT (-73.90212 40.74573),62 STREET                       ,ROOSEVELT AVENUE,,Backing Unsafely,Unspecified,,,,4198458,Sedan
+9/1/2019,,40.679634,-73.94959,POINT (-73.94959 40.679634),NOSTRAND AVENUE                 ,,,Driver Inattention/Distraction,Unspecified,,,,4201753,Sedan
+9/1/2019,BROOKLYN,40.667156,-73.9101,POINT (-73.9101 40.667156),ROCKAWAY AVENUE                 ,SUTTER AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4201602,Sedan
+9/1/2019,,40.6952,-73.92844,POINT (-73.92844 40.6952),BUSHWICK AVENUE                 ,,,Driver Inattention/Distraction,Unspecified,,,,4198834,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.84737,-73.83187,POINT (-73.83187 40.84737),,,3021      WESTCHESTER AVENUE            ,Unspecified,Unspecified,,,,4200195,Sedan
+9/1/2019,BROOKLYN,40.68389,-73.93823,POINT (-73.93823 40.68389),MARCUS GARVEY BOULEVARD         ,HANCOCK STREET,,Driver Inattention/Distraction,Unspecified,,,,4198060,Sedan
+9/1/2019,,,,,VANWYCK EXPRESSWAY              ,ROCKAWAY BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4198575,Sedan
+9/1/2019,BRONX,40.84281,-73.89709,POINT (-73.89709 40.84281),,,1763      FULTON AVENUE                 ,Driver Inattention/Distraction,Unspecified,,,,4198195,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.882763,-73.824135,POINT (-73.824135 40.882763),,,3351      CONNER STREET                 ,Unspecified,Unspecified,,,,4198329,Sedan
+9/1/2019,BRONX,40.80777,-73.91023,POINT (-73.91023 40.80777),EAST 142 STREET                 ,CONCORD AVENUE,,Unspecified,Unspecified,,,,4198356,Sedan
+9/1/2019,BROOKLYN,40.654278,-73.92292,POINT (-73.92292 40.654278),LINDEN BOULEVARD                ,EAST 58 STREET,,Passenger Distraction,Unspecified,,,,4198020,Sedan
+9/1/2019,MANHATTAN,40.736855,-73.97853,POINT (-73.97853 40.736855),1 AVENUE                        ,EAST 23 STREET,,Passing or Lane Usage Improper,Unspecified,,,,4198033,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.692837,-73.81071,POINT (-73.81071 40.692837),,,102-27    VANWYCK EXPRESSWAY            ,Driver Inattention/Distraction,Unspecified,,,,4198518,Sedan
+9/1/2019,MANHATTAN,40.71062,-73.98534,POINT (-73.98534 40.71062),,,299       SOUTH STREET                  ,Following Too Closely,Following Too Closely,,,,4200316,Sedan
+9/1/2019,BRONX,40.879948,-73.82339,POINT (-73.82339 40.879948),COOP CITY BOULEVARD             ,PEARTREE AVENUE,,Unspecified,,,,,4202219,Sedan
+9/1/2019,QUEENS,40.670948,-73.73731,POINT (-73.73731 40.670948),137 AVENUE                      ,234 PLACE,,Unspecified,Unspecified,,,,4198798,Sedan
+9/1/2019,,40.844677,-73.93886,POINT (-73.93886 40.844677),WEST 173 STREET                 ,,,Passing Too Closely,Unspecified,,,,4198096,Sedan
+9/1/2019,MANHATTAN,40.81404,-73.9367,POINT (-73.9367 40.81404),5 AVENUE                        ,WEST 137 STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198145,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.690926,-73.92066,POINT (-73.92066 40.690926),GATES AVENUE                    ,BUSHWICK AVENUE,,Following Too Closely,Unspecified,,,,4198877,Sedan
+9/1/2019,,40.62081,-74.16034,POINT (-74.16034 40.62081),,,177       ADA DRIVE                     ,Driver Inexperience,Unspecified,,,,4198171,Sedan
+9/1/2019,MANHATTAN,40.71402,-73.99071,POINT (-73.99071 40.71402),,,158       EAST BROADWAY                 ,Unsafe Lane Changing,Unspecified,,,,4198166,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.626713,-73.94121,POINT (-73.94121 40.626713),BROOKLYN AVENUE                 ,FLATBUSH AVENUE,,Unsafe Speed,Unspecified,Unspecified,,,4198130,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.87809,-73.86045,POINT (-73.86045 40.87809),,,850       EAST 213 STREET               ,Failure to Yield Right-of-Way,Driver Inattention/Distraction,,,,4201968,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.59011,-73.97422,POINT (-73.97422 40.59011),SHELL ROAD                      ,AVENUE X,,Unsafe Speed,,,,,4198286,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.841354,-73.88033,POINT (-73.88033 40.841354),,,1010      EAST 178 STREET               ,Driver Inattention/Distraction,Unspecified,,,,4198754,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.80324,-73.95472,POINT (-73.95472 40.80324),,,262       WEST 115 STREET               ,Unspecified,Unspecified,,,,4199224,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.68891,-73.82837,POINT (-73.82837 40.68891),,,101-18    116 STREET                    ,Passing or Lane Usage Improper,Unspecified,,,,4201323,Sedan
+9/1/2019,QUEENS,40.69916,-73.90153,POINT (-73.90153 40.69916),SENECA AVENUE                   ,GEORGE STREET,,Unsafe Speed,Failure to Yield Right-of-Way,Unspecified,Unspecified,Unspecified,4197862,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.685356,-73.95057,POINT (-73.95057 40.685356),,,369       NOSTRAND AVENUE               ,Driver Inattention/Distraction,Unspecified,,,,4200696,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.840076,-73.84618,POINT (-73.84618 40.840076),,,2511      FRISBY AVENUE                 ,Passing Too Closely,Unspecified,,,,4198415,Sedan
+9/1/2019,BROOKLYN,40.64664,-73.9246,POINT (-73.9246 40.64664),BEVERLEY ROAD                   ,KINGS HIGHWAY,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198110,E-Sco
+9/1/2019,,40.715076,-73.95189,POINT (-73.95189 40.715076),BROOKLYN QUEENS EXPRESSWAY      ,,,Following Too Closely,Unspecified,,,,4198794,Sedan
+9/1/2019,QUEENS,40.698257,-73.82039,POINT (-73.82039 40.698257),130 STREET                      ,91 AVENUE,,Driver Inattention/Distraction,,,,,4201040,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.71976,-73.84369,POINT (-73.84369 40.71976),AUSTIN STREET                   ,71 ROAD,,Backing Unsafely,Unspecified,,,,4197981,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.65183,-74.003334,POINT (-74.003334 40.65183),5 AVENUE                        ,38 STREET,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198338,Bike
+9/1/2019,BROOKLYN,40.65249,-73.95267,POINT (-73.95267 40.65249),LINDEN BOULEVARD                ,ROGERS AVENUE,,Unspecified,Unspecified,,,,4198016,Taxi
+9/1/2019,,40.674953,-73.80205,POINT (-73.80205 40.674953),VAN WYCK EXPWY                  ,,,Driver Inattention/Distraction,Reaction to Uninvolved Vehicle,Unspecified,,,4198573,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.606865,-73.89829,POINT (-73.89829 40.606865),BELT PARKWAY                    ,,,Passing or Lane Usage Improper,Unspecified,,,,4199853,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.716633,-73.96115,POINT (-73.96115 40.716633),,,197       BERRY STREET                  ,Driver Inattention/Distraction,Unspecified,,,,4200755,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.675568,-73.73378,POINT (-73.73378 40.675568),,,131-76    LAURELTON PARKWAY             ,Unspecified,,,,,4197902,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.823074,-73.8918,POINT (-73.8918 40.823074),SOUTHERN BOULEVARD              ,ALDUS STREET,,Unspecified,Unspecified,,,,4198176,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.577477,-73.968285,POINT (-73.968285 40.577477),,,3000      OCEAN PARKWAY                 ,Unspecified,Unspecified,,,,4198289,Sedan
+9/1/2019,BROOKLYN,40.651535,-73.93494,POINT (-73.93494 40.651535),,,4521      CHURCH AVENUE                 ,Driver Inattention/Distraction,Unspecified,,,,4198007,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.834934,-73.845436,POINT (-73.845436 40.834934),WATERBURY AVENUE                ,ZEREGA AVENUE,,Unspecified,Unspecified,,,,4198246,Sedan
+9/1/2019,QUEENS,40.752563,-73.90526,POINT (-73.90526 40.752563),BROADWAY                        ,56 STREET,,Alcohol Involvement,Unspecified,,,,4198899,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.696552,-73.85929,POINT (-73.85929 40.696552),PARK LANE SOUTH                 ,,,Driver Inattention/Distraction,Following Too Closely,,,,4200086,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.71894,-73.78215,POINT (-73.78215 40.71894),,,84-40     AVON STREET                   ,Unspecified,,,,,4199438,Sedan
+9/1/2019,QUEENS,40.741764,-73.8809,POINT (-73.8809 40.741764),,,82-75     BROADWAY                      ,Passing Too Closely,Unspecified,,,,4197937,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.683094,-73.80596,POINT (-73.80596 40.683094),VAN WYCK EXPWY                  ,,,Unspecified,,,,,4201642,Sedan
+9/1/2019,BROOKLYN,40.62375,-73.92423,POINT (-73.92423 40.62375),,,5314      AVENUE L                      ,Driver Inattention/Distraction,Unspecified,,,,4198951,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.885952,-73.8279,POINT (-73.8279 40.885952),CONNER STREET                   ,,,Turning Improperly,Unspecified,,,,4197955,Sedan
+9/1/2019,MANHATTAN,40.80209,-73.955826,POINT (-73.955826 40.80209),,,273       WEST 113 STREET               ,Oversized Vehicle,Unspecified,,,,4199223,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.61427,-74.156654,POINT (-74.156654 40.61427),STATEN ISLAND EXPRESSWAY        ,,,Following Too Closely,Unspecified,,,,4204118,Sedan
+9/1/2019,,,,,BROOKLYN QUEENS EXPRESSWAY RAMP ,,,Unspecified,Unspecified,,,,4198590,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.806076,-73.92564,POINT (-73.92564 40.806076),,,85        BRUCKNER BOULEVARD            ,Following Too Closely,Unspecified,,,,4198251,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,BRONX WHITESTONE BRIDGE         ,,,Following Too Closely,Unspecified,,,,4198610,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.723537,-73.94668,POINT (-73.94668 40.723537),,,19        NEWEL STREET                  ,Passing or Lane Usage Improper,Unspecified,,,,4198793,PK
+9/1/2019,,40.841843,-73.94539,POINT (-73.94539 40.841843),HENRY HUDSON PARKWAY            ,,,Failure to Yield Right-of-Way,Unspecified,,,,4198092,Sedan
+9/1/2019,QUEENS,40.762424,-73.831665,POINT (-73.831665 40.762424),,,36-38     MAIN STREET                   ,Obstruction/Debris,Unspecified,,,,4198611,Sedan
+9/1/2019,MANHATTAN,40.86769,-73.92122,POINT (-73.92122 40.86769),BROADWAY                        ,WEST 207 STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198431,Sedan
+9/1/2019,,40.622948,-73.9109,POINT (-73.9109 40.622948),AVENUE N                        ,,,Unspecified,,,,,4199268,Sedan
+9/1/2019,QUEENS,40.70261,-73.87257,POINT (-73.87257 40.70261),MYRTLE AVENUE                   ,76 STREET,,Unspecified,Unspecified,,,,4197989,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.661438,-73.73192,POINT (-73.73192 40.661438),,,251-06    FRANCIS LEWIS BOULEVARD       ,Driver Inattention/Distraction,Unspecified,,,,4197899,Sedan
+9/1/2019,BROOKLYN,40.672615,-74.0006,POINT (-74.0006 40.672615),COURT STREET                    ,LORRAINE STREET,,Failure to Yield Right-of-Way,Unspecified,,,,4198192,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.882496,-73.86989,POINT (-73.86989 40.882496),,,3560      WEBSTER AVENUE                ,Passing Too Closely,Unspecified,,,,4202258,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.745754,-73.73044,POINT (-73.73044 40.745754),GRAND CENTRAL PKWY              ,,,Other Vehicular,Following Too Closely,,,,4197910,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.67587,-73.88478,POINT (-73.88478 40.67587),,,361       CLEVELAND STREET              ,Unspecified,Unspecified,,,,4199365,Sedan
+9/1/2019,BROOKLYN,40.624897,-74.006256,POINT (-74.006256 40.624897),,,6914      12 AVENUE                     ,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,Unspecified,4198435,Sedan
+9/1/2019,,40.85045,-73.93667,POINT (-73.93667 40.85045),BENNETT AVENUE                  ,,,Driver Inattention/Distraction,Unspecified,,,,4198427,Sedan
+9/1/2019,BRONX,40.866837,-73.9037,POINT (-73.9037 40.866837),,,2550      WEBB AVENUE                   ,Unspecified,,,,,4199263,Sedan
+9/1/2019,BROOKLYN,40.628025,-73.89867,POINT (-73.89867 40.628025),SEAVIEW AVENUE                  ,EAST 85 STREET,,Driver Inattention/Distraction,Unspecified,,,,4197826,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.73296,-73.775894,POINT (-73.775894 40.73296),75 AVENUE                       ,196 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198036,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.854675,-73.88529,POINT (-73.88529 40.854675),,,2403      CAMBRELENG AVENUE             ,Driver Inattention/Distraction,Unspecified,,,,4198772,Motorcycle
+9/1/2019,BROOKLYN,40.637634,-73.95205,POINT (-73.95205 40.637634),,,521       EAST 26 STREET                ,Driver Inattention/Distraction,Unspecified,,,,4198956,Sedan
+9/1/2019,BROOKLYN,40.685085,-73.92948,POINT (-73.92948 40.685085),,,229       REID AVENUE                   ,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,Unspecified,4199088,Sedan
+9/1/2019,BROOKLYN,40.63223,-74.011856,POINT (-74.011856 40.63223),,,823       65 STREET                     ,Driver Inattention/Distraction,Unspecified,,,,4197957,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.77039,-73.954124,POINT (-73.954124 40.77039),1 AVENUE                        ,EAST 76 STREET,,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,,,,,4198644,Bike
+9/1/2019,,40.730057,-73.999374,POINT (-73.999374 40.730057),SULLIVAN STREET                 ,,,Passing Too Closely,Unspecified,,,,4198827,Sedan
+9/1/2019,BROOKLYN,40.67911,-73.880615,POINT (-73.880615 40.67911),ATLANTIC AVENUE                 ,HIGHLAND PLACE,,Unspecified,Unspecified,,,,4199340,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.575512,-73.98241,POINT (-73.98241 40.575512),SURF AVENUE                     ,,,Other Vehicular,Unspecified,,,,4198292,Sedan
+9/1/2019,BROOKLYN,40.687428,-73.95305,POINT (-73.95305 40.687428),,,214       LEXINGTON AVENUE              ,Driver Inattention/Distraction,Unspecified,,,,4203128,Sedan
+9/1/2019,QUEENS,40.60071,-73.75376,POINT (-73.75376 40.60071),BEACH 20 STREET                 ,NEW HAVEN AVENUE,,Unspecified,,,,,4201143,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.752895,-73.98925,POINT (-73.98925 40.752895),7 AVENUE                        ,WEST 37 STREET,,Failure to Yield Right-of-Way,,,,,4198395,Bike
+9/1/2019,,,,,NEW ENGLAND THRUWAY             ,,,Driver Inattention/Distraction,Unspecified,,,,4198032,Sedan
+9/1/2019,BROOKLYN,40.708466,-73.94676,POINT (-73.94676 40.708466),SCHOLES STREET                  ,LEONARD STREET,,Turning Improperly,Unspecified,,,,4198833,Taxi
+9/1/2019,QUEENS,40.759483,-73.904564,POINT (-73.904564 40.759483),57 STREET                       ,30 AVENUE,,Unspecified,,,,,4198217,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.835705,-73.88875,POINT (-73.88875 40.835705),SOUTHERN BOULEVARD              ,EAST 173 STREET,,Passing or Lane Usage Improper,Unspecified,,,,4198194,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,35 AVENUE                       ,CLEARVIEW EXPRESSWAY,,Unspecified,Unspecified,,,,4198070,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,VERRAZANO BRIDGE LOWER          ,,,Following Too Closely,Unspecified,,,,4198447,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.762836,-73.805405,POINT (-73.805405 40.762836),,,160-06    NORTHERN BOULEVARD            ,Backing Unsafely,Unspecified,,,,4198605,Sedan
+9/1/2019,,40.63692,-73.93752,POINT (-73.93752 40.63692),FARRAGUT ROAD                   ,,,Following Too Closely,Unspecified,,,,4198029,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.70969,-73.84603,POINT (-73.84603 40.70969),METROPOLITAN AVENUE             ,,,Following Too Closely,Unspecified,,,,4197990,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.604748,-73.99686,POINT (-73.99686 40.604748),,,2029      85 STREET                     ,Unspecified,,,,,4198596,Sedan
+9/1/2019,QUEENS,40.747955,-73.86016,POINT (-73.86016 40.747955),,,104-76    43 AVENUE                     ,Driver Inattention/Distraction,Unspecified,,,,4197964,Sedan
+9/1/2019,BROOKLYN,40.6154,-74.0306,POINT (-74.0306 40.6154),,,428       95 STREET                     ,Driver Inattention/Distraction,Unspecified,,,,4197958,Sedan
+9/1/2019,BROOKLYN,40.590572,-73.93999,POINT (-73.93999 40.590572),,,3823      NOSTRAND AVENUE               ,Driver Inattention/Distraction,Unspecified,,,,4198378,Sedan
+9/1/2019,QUEENS,40.7168,-73.78723,POINT (-73.78723 40.7168),EDGERTON BOULEVARD              ,HENLEY ROAD,,Driver Inattention/Distraction,Unspecified,,,,4198037,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.69939,-73.91938,POINT (-73.91938 40.69939),HARMAN STREET                   ,,,Passing Too Closely,Unspecified,,,,4198865,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.654984,-73.7284,POINT (-73.7284 40.654984),,,259-31    148 AVENUE                    ,Passing Too Closely,Unspecified,,,,4200351,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.7145,-73.957565,POINT (-73.957565 40.7145),ROEBLING STREET                 ,METROPOLITAN AVENUE,,Turning Improperly,Unspecified,,,,4198766,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.61822,-73.96293,POINT (-73.96293 40.61822),,,1280      EAST 12 STREET                ,Unspecified,,,,,4198126,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.829155,-73.93728,POINT (-73.93728 40.829155),WEST 155 STREET                 ,,,Unspecified,,,,,4198848,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.741936,-73.97263,POINT (-73.97263 40.741936),FDR DRIVE                       ,,,Pavement Defective,Unspecified,,,,4198031,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.66543,-73.806,POINT (-73.806 40.66543),,,149-000   134 STREET                    ,Driver Inattention/Distraction,Other Vehicular,Other Vehicular,,,4198830,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.709686,-74.01168,POINT (-74.01168 40.709686),LIBERTY STREET                  ,,,Driver Inattention/Distraction,Unspecified,,,,4198297,Taxi
+9/1/2019,BROOKLYN,40.651733,-73.93039,POINT (-73.93039 40.651733),CHURCH AVENUE                   ,UTICA AVENUE,,Alcohol Involvement,Unspecified,,,,4198028,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.889492,-73.855316,POINT (-73.855316 40.889492),,,815       EAST 229 STREET               ,Backing Unsafely,Driver Inattention/Distraction,,,,4201970,Sedan
+9/1/2019,MANHATTAN,40.74729,-73.99543,POINT (-73.99543 40.74729),,,258       WEST 27 STREET                ,Backing Unsafely,,,,,4199092,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.76619,-73.74027,POINT (-73.74027 40.76619),,,246-15    NORTHERN BOULEVARD            ,Other Vehicular,Other Vehicular,,,,4197906,Sedan
+9/1/2019,BRONX,40.840076,-73.84618,POINT (-73.84618 40.840076),,,2511      FRISBY AVENUE                 ,Outside Car Distraction,Unspecified,,,,4198332,Box Truck
+9/1/2019,BRONX,40.853344,-73.881676,POINT (-73.881676 40.853344),SOUTHERN BOULEVARD              ,EAST 187 STREET,,Other Vehicular,Passing or Lane Usage Improper,,,,4199445,Sedan
+9/1/2019,MANHATTAN,40.75044,-73.9893,POINT (-73.9893 40.75044),,,151       WEST 34 STREET                ,Driver Inattention/Distraction,Unspecified,,,,4198375,Sedan
+9/1/2019,,40.689274,-73.92399,POINT (-73.92399 40.689274),GATES AVENUE                    ,,,Unspecified,,,,,4198090,Sedan
+9/1/2019,,40.643894,-73.93826,POINT (-73.93826 40.643894),CLARENDON ROAD                  ,,,Unspecified,Unspecified,,,,4198017,Sedan
+9/1/2019,BRONX,40.822117,-73.89689,POINT (-73.89689 40.822117),INTERVALE AVENUE                ,WESTCHESTER AVENUE,,Unspecified,Unspecified,,,,4198549,School Bus
+9/1/2019,,40.650337,-73.86849,POINT (-73.86849 40.650337),BELT PARKWAY                    ,,,Following Too Closely,Unspecified,,,,4199908,Sedan
+9/1/2019,BROOKLYN,40.65317,-73.866875,POINT (-73.866875 40.65317),ERSKINE STREET                  ,SEAVIEW AVENUE,,Passing or Lane Usage Improper,Unspecified,,,,4200680,Sedan
+9/1/2019,,40.709747,-73.82057,POINT (-73.82057 40.709747),VAN WYCK EXPWY                  ,,,Passing Too Closely,Unspecified,Unspecified,,,4199439,Sedan
+9/1/2019,QUEENS,40.788555,-73.78234,POINT (-73.78234 40.788555),BELL BOULEVARD                  ,212 STREET,,Unspecified,,,,,4198612,Sedan
+9/1/2019,BROOKLYN,40.671364,-73.91975,POINT (-73.91975 40.671364),,,481       HOWARD AVENUE                 ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198002,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.66919,-73.99682,POINT (-73.99682 40.66919),HAMILTON AVENUE                 ,15 STREET,,Unspecified,Unspecified,,,,4198335,Sedan
+9/1/2019,,40.58501,-73.954575,POINT (-73.954575 40.58501),BELT PARKWAY                    ,,,Unsafe Speed,Unspecified,,,,4198383,Sedan
+9/1/2019,QUEENS,40.73091,-73.774925,POINT (-73.774925 40.73091),196 STREET                      ,UNION TURNPIKE,,Driver Inattention/Distraction,Unspecified,,,,4198034,Sedan
+9/1/2019,QUEENS,40.7676,-73.90866,POINT (-73.90866 40.7676),,,24-57     43 STREET                     ,Failure to Yield Right-of-Way,Unspecified,,,,4198223,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.718555,-73.988205,POINT (-73.988205 40.718555),DELANCEY STREET                 ,ESSEX STREET,,Driver Inattention/Distraction,Unspecified,,,,4198165,Taxi
+9/1/2019,BRONX,40.822056,-73.920395,POINT (-73.920395 40.822056),EAST 156 STREET                 ,PARK AVENUE,,Unspecified,Unspecified,,,,4198262,Sedan
+9/1/2019,BROOKLYN,40.64953,-73.91633,POINT (-73.91633 40.64953),REMSEN AVENUE                   ,AVENUE B,,Unspecified,Unspecified,,,,4201715,Sedan
+9/1/2019,BROOKLYN,40.68111,-73.86769,POINT (-73.86769 40.68111),,,67        SHERIDAN AVENUE               ,Passing Too Closely,Unspecified,Unspecified,,,4199347,Sedan
+9/1/2019,MANHATTAN,40.760777,-73.96672,POINT (-73.96672 40.760777),,,200       EAST 58 STREET                ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198086,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.65473,-73.90692,POINT (-73.90692 40.65473),LINDEN BOULEVARD                ,,,Turning Improperly,Unspecified,,,,4200727,Sedan
+9/1/2019,BROOKLYN,40.679516,-73.956825,POINT (-73.956825 40.679516),,,1102      ATLANTIC AVENUE               ,Other Vehicular,Passing or Lane Usage Improper,Unspecified,,,4197925,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.728848,-73.75087,POINT (-73.75087 40.728848),GRAND CENTRAL PKWY              ,,,Unsafe Lane Changing,Unspecified,,,,4198807,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.805412,-73.95656,POINT (-73.95656 40.805412),,,397       MANHATTAN AVENUE              ,Driver Inexperience,Unspecified,,,,4199225,Sedan
+9/1/2019,MANHATTAN,40.717926,-73.98568,POINT (-73.98568 40.717926),DELANCEY STREET                 ,CLINTON STREET,,Driver Inattention/Distraction,Unspecified,,,,4197797,Taxi
+9/1/2019,QUEENS,40.752987,-73.884895,POINT (-73.884895 40.752987),,,34-43     82 STREET                     ,Unspecified,,,,,4202580,Sedan
+9/1/2019,QUEENS,40.753838,-73.805824,POINT (-73.805824 40.753838),46 AVENUE                       ,161 STREET,,Failure to Yield Right-of-Way,Failure to Yield Right-of-Way,,,,4198606,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.75897,-73.807014,POINT (-73.807014 40.75897),159 STREET                      ,,,Passing or Lane Usage Improper,Unspecified,,,,4197914,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.683544,-73.84855,POINT (-73.84855 40.683544),101 AVENUE                      ,92 STREET,,Driver Inattention/Distraction,Unspecified,,,,4200519,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.62459,-74.14129,POINT (-74.14129 40.62459),FOREST AVENUE                   ,CRYSTAL AVENUE,,Driver Inexperience,Failure to Yield Right-of-Way,,,,4198169,Sedan
+9/1/2019,QUEENS,40.745224,-73.921135,POINT (-73.921135 40.745224),43 AVENUE                       ,43 STREET,,Passing or Lane Usage Improper,Unspecified,,,,4198907,Sedan
+9/1/2019,BROOKLYN,40.696198,-73.98869,POINT (-73.98869 40.696198),ADAMS STREET                    ,TILLARY STREET,,Passing or Lane Usage Improper,Unspecified,,,,4197737,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.656685,-73.90454,POINT (-73.90454 40.656685),WATKINS STREET                  ,NEW LOTS AVENUE,,Unspecified,,,,,4199163,Sedan
+9/1/2019,BROOKLYN,40.669975,-73.91988,POINT (-73.91988 40.669975),HOWARD AVENUE                   ,SAINT JOHNS PLACE,,Driver Inattention/Distraction,Unspecified,,,,4202789,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,,,,Boardwalk East                  ,Brighton 4th street,,Pavement Defective,,,,,4197952,Motorscooter
+9/1/2019,,40.728855,-73.92782,POINT (-73.92782 40.728855),BROOKLYN QUEENS EXPRESSWAY      ,,,Driver Inattention/Distraction,Unspecified,,,,4198898,Taxi
+9/1/2019,,40.81423,-73.93444,POINT (-73.93444 40.81423),HARLEM RIVER DRIVE              ,,,Unspecified,,,,,4198139,Sedan
+9/1/2019,BRONX,40.88845,-73.841965,POINT (-73.841965 40.88845),BAYCHESTER AVENUE               ,EAST 233 STREET,,Unspecified,Unspecified,,,,4201969,Sedan
+9/1/2019,MANHATTAN,40.787224,-73.95417,POINT (-73.95417 40.787224),EAST 96 STREET                  ,MADISON AVENUE,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198398,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,,,,VANDERVORT AVENUE               ,MASPETH AVENUE,,Driver Inattention/Distraction,Unsafe Speed,,,,4199259,Sedan
+9/1/2019,,,,,BRONX WHITESTONE BRIDGE         ,,,Following Too Closely,Unspecified,Unspecified,,,4198609,Sedan
+9/1/2019,BROOKLYN,40.62418,-73.97048,POINT (-73.97048 40.62418),AVENUE J                        ,OCEAN PARKWAY,,Driver Inattention/Distraction,Unspecified,,,,4198078,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.642494,-73.97939,POINT (-73.97939 40.642494),,,472       MC DONALD AVENUE              ,Unspecified,Unspecified,,,,4199066,Carry All
+9/1/2019,,40.76217,-73.7568,POINT (-73.7568 40.76217),CROSS ISLAND PARKWAY            ,,,Driver Inattention/Distraction,Unspecified,,,,4197907,Station Wagon/Sport Utility Vehicle
+9/1/2019,,,,,BRONX WHITESTONE BRIDGE         ,,,Following Too Closely,Unspecified,,,,4198608,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.691227,-73.98214,POINT (-73.98214 40.691227),FLATBUSH AVENUE EXTENSION       ,FLEET STREET,,Passing or Lane Usage Improper,Unspecified,,,,4198084,Sedan
+9/1/2019,QUEENS,40.758507,-73.776344,POINT (-73.776344 40.758507),,,207-07    NORTHERN BOULEVARD            ,Driver Inattention/Distraction,Unspecified,,,,4198072,Sedan
+9/1/2019,BROOKLYN,40.683197,-73.98352,POINT (-73.98352 40.683197),,,280       WYCKOFF STREET                ,Following Too Closely,Unspecified,,,,4198188,Sedan
+9/1/2019,,40.827274,-73.904915,POINT (-73.904915 40.827274),BOSTON ROAD                     ,EAST 166 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198196,Sedan
+9/1/2019,,40.81129,-73.90032,POINT (-73.90032 40.81129),BRUCKNER EXPRESSWAY             ,,,Unspecified,Unspecified,Unspecified,,,4198534,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.71143,-73.72845,POINT (-73.72845 40.71143),CROSS ISLAND PARKWAY            ,,,Driver Inattention/Distraction,Unspecified,,,,4197900,Sedan
+9/1/2019,BROOKLYN,40.62418,-73.97048,POINT (-73.97048 40.62418),AVENUE J                        ,OCEAN PARKWAY,,Outside Car Distraction,Unspecified,,,,4202277,Sedan
+9/1/2019,STATEN ISLAND,40.54813,-74.19986,POINT (-74.19986 40.54813),HUGUENOT AVENUE                 ,RUMBA PLACE,,Fell Asleep,,,,,4198157,Sedan
+9/1/2019,QUEENS,40.667397,-73.73757,POINT (-73.73757 40.667397),,,138-63    BROOKVILLE BOULEVARD          ,Unspecified,Unspecified,,,,4197901,Sedan
+9/1/2019,,40.638103,-74.00326,POINT (-74.00326 40.638103),9 AVENUE                        ,,,Unspecified,Unspecified,Unspecified,,,4199060,Sedan
+9/1/2019,BRONX,40.808163,-73.92653,POINT (-73.92653 40.808163),ALEXANDER AVENUE                ,EAST 135 STREET,,Other Vehicular,Other Vehicular,,,,4198281,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.828247,-73.89549,POINT (-73.89549 40.828247),HOME STREET                     ,EAST 169 STREET,,Unspecified,Unspecified,,,,4198550,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.711845,-73.859764,POINT (-73.859764 40.711845),WOODHAVEN BOULEVARD             ,METROPOLITAN AVENUE,,Unsafe Lane Changing,Other Vehicular,,,,4197996,Sedan
+9/1/2019,QUEENS,40.69504,-73.797874,POINT (-73.797874 40.69504),,,107-32    155 STREET                    ,Passing Too Closely,Unspecified,,,,4198502,Sedan
+9/1/2019,BROOKLYN,40.63575,-74.0084,POINT (-74.0084 40.63575),,,815       59 STREET                     ,Unspecified,Unspecified,,,,4199064,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.57529,-73.97655,POINT (-73.97655 40.57529),SURF AVENUE                     ,WEST 8 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198291,Sedan
+9/1/2019,BRONX,40.841652,-73.87233,POINT (-73.87233 40.841652),MORRIS PARK AVENUE              ,ADAMS STREET,,Failure to Yield Right-of-Way,Unspecified,,,,4201257,Bike
+9/1/2019,,40.735283,-73.85984,POINT (-73.85984 40.735283),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Unspecified,,,,4197982,Sedan
+9/1/2019,,40.736732,-73.85451,POINT (-73.85451 40.736732),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Unspecified,,,,4198136,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.865685,-73.823425,POINT (-73.823425 40.865685),EINSTEIN LOOP                   ,HUTCHINSON RIVER PARKWAY EAST,,Unspecified,,,,,4202191,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.872143,-73.818695,POINT (-73.818695 40.872143),HUTCHINSON RIVER PARKWAY        ,,,Unspecified,Unspecified,,,,4198330,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.742973,-73.814316,POINT (-73.814316 40.742973),KISSENA BOULEVARD               ,BOOTH MEMORIAL AVENUE,,Other Vehicular,Passing or Lane Usage Improper,,,,4198623,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.68064,-73.95338,POINT (-73.95338 40.68064),BEDFORD AVENUE                  ,,,Passing or Lane Usage Improper,Unspecified,,,,4201793,Sedan
+9/1/2019,QUEENS,40.699688,-73.73575,POINT (-73.73575 40.699688),115 AVENUE                      ,222 STREET,,Turning Improperly,Unspecified,,,,4198069,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.67169,-73.79121,POINT (-73.79121 40.67169),147 STREET                      ,SUTTER AVENUE,,Driver Inattention/Distraction,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,4198576,Sedan
+9/1/2019,MANHATTAN,40.86361,-73.928215,POINT (-73.928215 40.86361),DONGAN PLACE                    ,ARDEN STREET,,Unspecified,Unspecified,,,,4198425,Sedan
+9/1/2019,,40.68714,-73.80801,POINT (-73.80801 40.68714),VAN WYCK EXPWY                  ,,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198312,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.654163,-73.72637,POINT (-73.72637 40.654163),148 ROAD                        ,HOOK CREEK BOULEVARD,,Passing or Lane Usage Improper,Unspecified,,,,4198065,Sedan
+9/1/2019,,40.703674,-73.91513,POINT (-73.91513 40.703674),SAINT NICHOLAS AVENUE           ,,,Following Too Closely,Unspecified,,,,4198835,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.68175,-73.96748,POINT (-73.96748 40.68175),ATLANTIC AVENUE                 ,VANDERBILT AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198418,Sedan
+9/1/2019,BRONX,40.86028,-73.89405,POINT (-73.89405 40.86028),MARION AVENUE                   ,EAST 188 STREET,,Unspecified,Unspecified,,,,4198287,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.71025,-73.96121,POINT (-73.96121 40.71025),WILLIAMSBURG BRIDGE             ,SOUTH 5 PLACE,,Unspecified,,,,,4198890,Bike
+9/1/2019,QUEENS,40.721996,-73.84769,POINT (-73.84769 40.721996),69 ROAD                         ,GERARD PLACE,,Unspecified,,,,,4197980,Convertible
+9/1/2019,,40.688904,-73.980934,POINT (-73.980934 40.688904),FLATBUSH AVENUE EXTENSION       ,,,Backing Unsafely,Unspecified,,,,4197738,Sedan
+9/1/2019,MANHATTAN,40.726116,-74.0016,POINT (-74.0016 40.726116),THOMPSON STREET                 ,PRINCE STREET,,Driver Inattention/Distraction,Unspecified,,,,4198372,Sedan
+9/1/2019,QUEENS,40.71501,-73.77591,POINT (-73.77591 40.71501),,,87-46     CHELSEA STREET                ,Unspecified,Unspecified,,,,4199447,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.747627,-73.976746,POINT (-73.976746 40.747627),EAST 37 STREET                  ,3 AVENUE,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4197993,Sedan
+9/1/2019,BROOKLYN,40.651005,-73.94571,POINT (-73.94571 40.651005),EAST 34 STREET                  ,CHURCH AVENUE,,Unspecified,Unspecified,,,,4198027,Ambulance
+9/1/2019,,40.759483,-73.904564,POINT (-73.904564 40.759483),57 STREET                       ,,,Unspecified,,,,,4198212,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.702614,-73.96058,POINT (-73.96058 40.702614),BROOKLYN QUEENS EXPRESSWAY      ,,,Unsafe Speed,Unspecified,,,,4198869,Sedan
+9/1/2019,BROOKLYN,40.687546,-73.87655,POINT (-73.87655 40.687546),,,15        CHESTNUT STREET               ,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,,4199341,Sedan
+9/1/2019,,40.80577,-73.90971,POINT (-73.90971 40.80577),BRUCKNER EXPRESSWAY             ,,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4197894,Sedan
+9/1/2019,BROOKLYN,40.720314,-73.9443,POINT (-73.9443 40.720314),,,497       MEEKER AVENUE                 ,Backing Unsafely,Unspecified,,,,4198789,Box Truck
+9/1/2019,MANHATTAN,40.762154,-73.97207,POINT (-73.97207 40.762154),,,32        EAST 57 STREET                ,Driver Inattention/Distraction,Unspecified,,,,4197724,Taxi
+9/1/2019,QUEENS,40.675842,-73.78305,POINT (-73.78305 40.675842),BAISLEY BOULEVARD               ,157 STREET,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4200770,Sedan
+9/1/2019,BROOKLYN,40.620125,-73.96972,POINT (-73.96972 40.620125),,,1170      OCEAN PARKWAY                 ,Unspecified,Unspecified,,,,4199058,Sedan
+9/1/2019,,40.743427,-73.775475,POINT (-73.775475 40.743427),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Unspecified,,,,4198071,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.778477,-73.98546,POINT (-73.98546 40.778477),WEST 70 STREET                  ,,,Other Vehicular,,,,,4198337,Bike
+9/1/2019,BROOKLYN,40.6429,-73.96067,POINT (-73.96067 40.6429),,,1902      CORTELYOU ROAD                ,Unspecified,Unspecified,Unspecified,,,4198124,Taxi
+9/1/2019,,40.652313,-73.95602,POINT (-73.95602 40.652313),LINDEN BOULEVARD                ,,,Driver Inattention/Distraction,Unspecified,,,,4198122,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.674416,-73.96695,POINT (-73.96695 40.674416),SAINT JOHNS PLACE               ,,,Alcohol Involvement,Unspecified,,,,4199603,Sedan
+9/1/2019,,40.63043,-73.88593,POINT (-73.88593 40.63043),BELT PARKWAY                    ,,,Reaction to Uninvolved Vehicle,Unspecified,,,,4199272,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.76417,-73.83967,POINT (-73.83967 40.76417),VAN WYCK EXPWY                  ,,,Passing or Lane Usage Improper,Unsafe Lane Changing,,,,4198043,Pick-up Truck
+9/1/2019,BROOKLYN,40.670296,-73.906555,POINT (-73.906555 40.670296),,,1800      PITKIN AVENUE                 ,Reaction to Uninvolved Vehicle,Unspecified,,,,4199193,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.691895,-73.77822,POINT (-73.77822 40.691895),172 STREET                      ,LINDEN BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4200764,Sedan
+9/1/2019,BROOKLYN,40.677353,-74.00446,POINT (-74.00446 40.677353),HUNTINGTON STREET               ,HICKS STREET,,Unspecified,Unspecified,,,,4198057,Taxi
+9/1/2019,,40.77517,-73.92905,POINT (-73.92905 40.77517),12 STREET                       ,,,Unspecified,,,,,4200374,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.623768,-73.98907,POINT (-73.98907 40.623768),,,5923      17 AVENUE                     ,Passing Too Closely,Unspecified,,,,4199070,Station Wagon/Sport Utility Vehicle
+9/1/2019,MANHATTAN,40.736546,-73.98905,POINT (-73.98905 40.736546),EAST 17 STREET                  ,PARK AVENUE SOUTH,,Other Vehicular,Other Vehicular,,,,4197824,Taxi
+9/1/2019,BRONX,40.89572,-73.85656,POINT (-73.85656 40.89572),,,693       EAST 236 STREET               ,Unsafe Speed,Unspecified,Unspecified,Unspecified,,4201974,Sedan
+9/1/2019,BRONX,40.875145,-73.91216,POINT (-73.91216 40.875145),,,1         JACOBUS PLACE                 ,Unspecified,Unspecified,,,,4198855,Sedan
+9/1/2019,,40.802753,-73.93358,POINT (-73.93358 40.802753),EAST 125 STREET                 ,,,Turning Improperly,Unspecified,,,,4198151,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.88972,-73.86385,POINT (-73.86385 40.88972),,,601       EAST 226 STREET               ,Unspecified,Unspecified,,,,4200706,Pick-up Truck
+9/1/2019,MANHATTAN,40.788315,-73.97651,POINT (-73.97651 40.788315),WEST 86 STREET                  ,BROADWAY,,Driver Inattention/Distraction,Unspecified,,,,4198351,Sedan
+9/1/2019,BROOKLYN,40.64957,-73.93887,POINT (-73.93887 40.64957),SNYDER AVENUE                   ,ALBANY AVENUE,,Unspecified,Unspecified,,,,4198104,Sedan
+9/1/2019,BROOKLYN,40.691597,-73.991455,POINT (-73.991455 40.691597),COURT STREET                    ,LIVINGSTON STREET,,Driver Inattention/Distraction,,,,,4197896,Sedan
+9/1/2019,BRONX,40.902958,-73.896416,POINT (-73.896416 40.902958),WEST 256 STREET                 ,BROADWAY,,Failure to Yield Right-of-Way,Unspecified,,,,4198001,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.72992,-73.83308,POINT (-73.83308 40.72992),PARK DRIVE EAST                 ,136 STREET,,Driver Inexperience,Unspecified,,,,4197999,Sedan
+9/1/2019,BROOKLYN,40.693172,-73.97086,POINT (-73.97086 40.693172),MYRTLE AVENUE                   ,CLERMONT AVENUE,,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Failure to Yield Right-of-Way,,,,4197675,Sedan
+9/1/2019,,40.66172,-74.00011,POINT (-74.00011 40.66172),GOWANUS EXPY (BQE)              ,,,Failure to Yield Right-of-Way,Unspecified,,,,4199858,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.674934,-73.80186,POINT (-73.80186 40.674934),VAN WYCK EXPWY                  ,,,Unspecified,,,,,4198569,Sedan
+9/1/2019,,,,,QUEENSBORO BRIDGE UPPER         ,,,Driver Inattention/Distraction,Unspecified,,,,4203878,Sedan
+9/1/2019,,40.573708,-73.99072,POINT (-73.99072 40.573708),SURF AVENUE                     ,,,Driver Inattention/Distraction,,,,,4200599,Sedan
+9/1/2019,BROOKLYN,40.696033,-73.98453,POINT (-73.98453 40.696033),TILLARY STREET                  ,FLATBUSH AVENUE EXTENSION,,Unsafe Lane Changing,Unspecified,,,,4199526,Station Wagon/Sport Utility Vehicle
+9/1/2019,BRONX,40.83821,-73.82482,POINT (-73.82482 40.83821),,,1226      KEARNEY AVENUE                ,Animals Action,,,,,4198955,Sedan
+9/1/2019,,40.613895,-74.01051,POINT (-74.01051 40.613895),84 STREET                       ,,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4202510,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.734974,-73.97987,POINT (-73.97987 40.734974),EAST 20 STREET                  ,,,Driver Inattention/Distraction,Unspecified,,,,4197822,Sedan
+9/1/2019,BROOKLYN,40.67651,-73.89705,POINT (-73.89705 40.67651),,,61        PENNSYLVANIA AVENUE           ,Unspecified,Unspecified,,,,4199342,Bike
+9/1/2019,BRONX,40.873474,-73.84914,POINT (-73.84914 40.873474),,,1309      GIVAN AVENUE                  ,Driver Inattention/Distraction,Unspecified,,,,4202175,Sedan
+9/1/2019,QUEENS,40.655163,-73.736725,POINT (-73.736725 40.655163),253 STREET                      ,148 AVENUE,,Unspecified,Unspecified,,,,4198052,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.73244,-73.925255,POINT (-73.925255 40.73244),KOSCIUSKO BRIDGE                ,BROOKLYN QUEENS EXPRESSWAY,,Following Too Closely,Unspecified,,,,4198909,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.836617,-73.87377,POINT (-73.87377 40.836617),BRONX RIVER PARKWAY             ,,,Following Too Closely,Unspecified,Unspecified,Unspecified,,4198317,Sedan
+9/1/2019,,40.588924,-74.167625,POINT (-74.167625 40.588924),RICHMOND AVENUE                 ,RICHMOND HILL ROAD,,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,,4198483,Sedan
+9/1/2019,BRONX,40.808407,-73.908844,POINT (-73.908844 40.808407),WALES AVENUE                    ,SAINT MARYS STREET,,View Obstructed/Limited,Unspecified,,,,4198261,Sedan
+9/1/2019,BROOKLYN,40.650764,-73.95061,POINT (-73.95061 40.650764),,,2839      CHURCH AVENUE                 ,Obstruction/Debris,Unspecified,,,,4199707,Taxi
+9/1/2019,MANHATTAN,40.825073,-73.9493,POINT (-73.9493 40.825073),,,539       WEST 144 STREET               ,Unspecified,,,,,4199792,Sedan
+9/1/2019,,40.575813,-74.11979,POINT (-74.11979 40.575813),RICHMOND ROAD                   ,,,Driver Inattention/Distraction,Unspecified,,,,4198000,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.67533,-73.93609,POINT (-73.93609 40.67533),BERGEN STREET                   ,,,Driver Inattention/Distraction,Unspecified,,,,4199658,Sedan
+9/1/2019,BRONX,40.884426,-73.89541,POINT (-73.89541 40.884426),,,3900      ORLOFF AVENUE                 ,Unspecified,Unspecified,,,,4198444,Box Truck
+9/1/2019,QUEENS,40.765354,-73.81733,POINT (-73.81733 40.765354),149 STREET                      ,NORTHERN BOULEVARD,,Following Too Closely,Unspecified,,,,4198621,Sedan
+9/1/2019,,40.763958,-73.82814,POINT (-73.82814 40.763958),NORTHERN BOULEVARD              ,,,Following Too Closely,Unspecified,,,,4197919,Sedan
+9/1/2019,,40.79337,-73.93274,POINT (-73.93274 40.79337),FDR DRIVE                       ,,,Driver Inattention/Distraction,Unspecified,,,,4200992,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.688652,-73.84709,POINT (-73.84709 40.688652),ATLANTIC AVENUE                 ,,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4200013,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.680424,-73.85954,POINT (-73.85954 40.680424),,,78-01     101 AVENUE                    ,Backing Unsafely,Unspecified,,,,4201334,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.75455,-73.74317,POINT (-73.74317 40.75455),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Unspecified,,,,4197973,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.73826,-73.79895,POINT (-73.79895 40.73826),LONG ISLAND EXPRESSWAY          ,,,Following Too Closely,Following Too Closely,,,,4198622,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.715015,-73.741646,POINT (-73.741646 40.715015),HEMPSTEAD AVENUE                ,217 STREET,,Unspecified,Unspecified,Unspecified,,,4199041,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.64671,-73.95811,POINT (-73.95811 40.64671),,,1009      FLATBUSH AVENUE               ,Unspecified,,,,,4198123,Sedan
+9/1/2019,BROOKLYN,40.582733,-73.96704,POINT (-73.96704 40.582733),,,2727      OCEAN PARKWAY                 ,Alcohol Involvement,,,,,4198354,Sedan
+9/1/2019,,,,,EAST 96 STREET                  ,EAST RIVER,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198635,Sedan
+9/1/2019,BROOKLYN,40.648567,-73.91781,POINT (-73.91781 40.648567),AVENUE B                        ,EAST 88 STREET,,Failure to Yield Right-of-Way,Unspecified,,,,4198018,Sedan
+9/1/2019,,40.740364,-73.89972,POINT (-73.89972 40.740364),65 PLACE                        ,LAUREL HILL BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4198355,Sedan
+9/1/2019,MANHATTAN,40.757668,-73.99483,POINT (-73.99483 40.757668),WEST 40 STREET                  ,DYER AVENUE,,Oversized Vehicle,Unspecified,,,,4199316,Sedan
+9/1/2019,,40.69168,-73.99965,POINT (-73.99965 40.69168),COLUMBIA STREET                 ,ATLANTIC AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198191,Sedan
+9/1/2019,,,,,CROSS ISLAND PARKWAY            ,,,Unspecified,Unspecified,,,,4198059,Sedan
+9/1/2019,,,,,CENTER BOULEVARD                ,,,Alcohol Involvement,Unspecified,,,,4201846,Sedan
+9/1/2019,BRONX,40.833588,-73.91498,POINT (-73.91498 40.833588),EAST 167 STREET                 ,GRANT AVENUE,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4197971,Sedan
+9/1/2019,BRONX,40.852287,-73.890495,POINT (-73.890495 40.852287),QUARRY ROAD                     ,EAST 182 STREET,,Traffic Control Disregarded,Other Vehicular,,,,4198347,Sedan
+9/1/2019,BRONX,40.817574,-73.90359,POINT (-73.90359 40.817574),UNION AVENUE                    ,EAST 156 STREET,,Backing Unsafely,Unspecified,,,,4198282,Box Truck
+9/1/2019,,40.760456,-73.98374,POINT (-73.98374 40.760456),WEST 49 STREET                  ,,,Driver Inexperience,Unspecified,Unspecified,,,4197728,Sedan
+9/1/2019,BRONX,40.871246,-73.89284,POINT (-73.89284 40.871246),,,10        EAST 198 STREET               ,Failure to Yield Right-of-Way,Unspecified,,,,4198521,Sedan
+9/1/2019,QUEENS,40.695995,-73.782776,POINT (-73.782776 40.695995),MERRICK BOULEVARD               ,110 AVENUE,,Following Too Closely,Unspecified,,,,4198505,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.81207,-73.93603,POINT (-73.93603 40.81207),EAST 135 STREET                 ,MADISON AVENUE,,Unspecified,Unspecified,,,,4198163,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.67033,-73.774506,POINT (-73.774506 40.67033),140 AVENUE                      ,161 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198846,Sedan
+9/1/2019,,40.804993,-73.911354,POINT (-73.911354 40.804993),BRUCKNER EXPRESSWAY             ,,,Unsafe Lane Changing,Unspecified,,,,4198279,Sedan
+9/1/2019,BROOKLYN,40.651005,-73.94571,POINT (-73.94571 40.651005),EAST 34 STREET                  ,CHURCH AVENUE,,Unspecified,Unspecified,,,,4201741,Sedan
+9/1/2019,QUEENS,40.707092,-73.89724,POINT (-73.89724 40.707092),FRESH POND ROAD                 ,MADISON STREET,,Lane Marking Improper/Inadequate,Unspecified,,,,4197992,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.757263,-73.86365,POINT (-73.86365 40.757263),,,33-14     105 STREET                    ,View Obstructed/Limited,Unspecified,,,,4198709,Sedan
+9/1/2019,,,,,BROOKLYN QUEENS EXPRESSWAY RAMP ,,,Following Too Closely,Unspecified,,,,4198587,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.6557,-73.74486,POINT (-73.74486 40.6557),147 DRIVE                       ,BROOKVILLE BOULEVARD,,Driver Inattention/Distraction,Unspecified,,,,4198559,Sedan
+9/1/2019,QUEENS,40.703438,-73.76667,POINT (-73.76667 40.703438),,,109-09    FARMERS BOULEVARD             ,Fell Asleep,Unspecified,Unspecified,,,4203373,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.65778,-73.951096,POINT (-73.951096 40.65778),,,288       HAWTHORNE STREET              ,Driver Inattention/Distraction,Unspecified,,,,4202400,Sedan
+9/1/2019,BRONX,40.806026,-73.92765,POINT (-73.92765 40.806026),,,331       EAST 132 STREET               ,Unspecified,Unspecified,,,,4198272,Box Truck
+9/1/2019,BROOKLYN,40.708508,-73.95071,POINT (-73.95071 40.708508),,,270       UNION AVENUE                  ,Unspecified,Unspecified,,,,4198829,Sedan
+9/1/2019,,40.796158,-73.947655,POINT (-73.947655 40.796158),MADISON AVENUE                  ,,,Driver Inattention/Distraction,Unspecified,,,,4198417,Sedan
+9/1/2019,BROOKLYN,40.60981,-73.92251,POINT (-73.92251 40.60981),FLATBUSH AVENUE                 ,AVENUE U,,Unspecified,Unspecified,,,,4199934,Sedan
+9/1/2019,BRONX,,,,,,1981      SCHIEFELIN AVENUE             ,Failure to Yield Right-of-Way,Unspecified,,,,4201975,Sedan
+9/1/2019,QUEENS,40.745827,-73.85626,POINT (-73.85626 40.745827),,,48-08     108 STREET                    ,Passing or Lane Usage Improper,Unspecified,,,,4197940,Station Wagon/Sport Utility Vehicle
+9/1/2019,,40.69773,-73.81409,POINT (-73.81409 40.69773),VAN WYCK EXPWY                  ,,,Following Too Closely,Unspecified,,,,4201324,Box Truck
+9/1/2019,QUEENS,40.734985,-73.85066,POINT (-73.85066 40.734985),63 AVENUE                       ,108 STREET,,Traffic Control Disregarded,Unspecified,,,,4197986,Sedan
+9/1/2019,,40.837177,-73.90799,POINT (-73.90799 40.837177),CLAY AVENUE                     ,,,Unspecified,,,,,4198061,Sedan
+9/1/2019,QUEENS,40.756317,-73.83369,POINT (-73.83369 40.756317),41 AVENUE                       ,COLLEGE POINT BOULEVARD,,Unspecified,,,,,4200129,Convertible
+9/1/2019,STATEN ISLAND,40.57925,-74.07781,POINT (-74.07781 40.57925),CAPODANNO BOULEVARD             ,SEAVIEW AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198543,Sedan
+9/1/2019,MANHATTAN,40.78519,-73.94934,POINT (-73.94934 40.78519),3 AVENUE                        ,EAST 96 STREET,,Turning Improperly,Unspecified,,,,4198645,Station Wagon/Sport Utility Vehicle
+9/1/2019,BROOKLYN,40.719746,-73.955696,POINT (-73.955696 40.719746),,,118       BEDFORD AVENUE                ,Passenger Distraction,Unspecified,,,,4198800,Taxi
+9/1/2019,,40.831978,-73.93515,POINT (-73.93515 40.831978),HARLEM RIVER DRIVE              ,,,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Other Vehicular,,,,4198098,Sedan
+9/1/2019,,40.733376,-73.86665,POINT (-73.86665 40.733376),LONG ISLAND EXPRESSWAY          ,,,Reaction to Uninvolved Vehicle,Following Too Closely,,,,4198336,Station Wagon/Sport Utility Vehicle
+9/1/2019,QUEENS,40.76496,-73.90532,POINT (-73.90532 40.76496),25 AVENUE                       ,48 STREET,,Traffic Control Disregarded,Unspecified,,,,4200379,Sedan
+9/2/2019,,40.762676,-73.954346,POINT (-73.954346 40.762676),FDR DRIVE                       ,,,Pavement Slippery,,,,,4198429,Sedan
+9/2/2019,,,,,HENRY HUDSON PARKWAY RAMP       ,,,Unspecified,Unspecified,,,,4201297,Sedan
+9/2/2019,,,,,PELHAM PARKWAY                  ,EASTCHESTER ROAD,,Driver Inattention/Distraction,,,,,4199337,Station Wagon/Sport Utility Vehicle
+9/2/2019,,,,,159 STREET                      ,HARDING EXPRESSWAY,,Passing Too Closely,Unspecified,,,,4198629,Tractor Truck Diesel
+9/2/2019,,,,,GRAND CENTRAL PARKWAY           ,MAIN STREET,,Passing or Lane Usage Improper,Passing or Lane Usage Improper,,,,4198604,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.713436,-73.76119,POINT (-73.76119 40.713436),JAMAICA AVENUE                  ,CARPENTER AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198965,Sedan
+9/2/2019,QUEENS,40.693707,-73.779335,POINT (-73.779335 40.693707),,,172-09    SAYRES AVENUE                 ,Driver Inattention/Distraction,Unspecified,,,,4198577,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.658688,-73.72944,POINT (-73.72944 40.658688),257 STREET                      ,FRANCIS LEWIS BOULEVARD,,Reaction to Uninvolved Vehicle,Unspecified,,,,4199165,Sedan
+9/2/2019,,40.691822,-73.92223,POINT (-73.92223 40.691822),BUSHWICK AVENUE                 ,,,Oversized Vehicle,Unspecified,,,,4198862,Pick-up Truck
+9/2/2019,QUEENS,40.7666,-73.89117,POINT (-73.89117 40.7666),78 STREET                       ,ASTORIA BOULEVARD,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198683,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.640537,-73.98008,POINT (-73.98008 40.640537),DAHILL ROAD                     ,35 STREET,,Driver Inattention/Distraction,Unspecified,,,,4199062,Sedan
+9/2/2019,,40.819046,-73.944695,POINT (-73.944695 40.819046),WEST 139 STREET                 ,,,Other Vehicular,Following Too Closely,,,,4198582,Taxi
+9/2/2019,,40.838688,-73.93779,POINT (-73.93779 40.838688),AMSTERDAM AVENUE                ,WEST 166 STREET,,Traffic Control Disregarded,Unspecified,,,,4200040,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.750786,-73.86164,POINT (-73.86164 40.750786),,,104-58    39 AVENUE                     ,Driver Inattention/Distraction,,,,,4203053,E-Sco
+9/2/2019,,40.62104,-74.03206,POINT (-74.03206 40.62104),90 STREET                       ,3 AVENUE,,Following Too Closely,Unspecified,,,,4198466,Sedan
+9/2/2019,QUEENS,40.67376,-73.79473,POINT (-73.79473 40.67376),ROCKAWAY BOULEVARD              ,144 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198574,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.7233,-73.9606,POINT (-73.9606 40.7233),,,16        NORTH 11 STREET               ,Backing Unsafely,Unspecified,,,,4198803,Sedan
+9/2/2019,,40.67144,-73.77537,POINT (-73.77537 40.67144),161 STREET                      ,,,Passing Too Closely,Unspecified,,,,4198872,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.711025,-73.814735,POINT (-73.814735 40.711025),,,142-09    84 DRIVE                      ,Unspecified,Unspecified,,,,4198367,Sedan
+9/2/2019,,,,,,,88-08     23 aveneue                    ,Backing Unsafely,,,,,4198732,Station Wagon/Sport Utility Vehicle
+9/2/2019,BRONX,40.864594,-73.90379,POINT (-73.90379 40.864594),,,2467      UNIVERSITY AVENUE             ,Unspecified,,,,,4198532,Pick-up Truck
+9/2/2019,QUEENS,40.699253,-73.82286,POINT (-73.82286 40.699253),,,127-09    89 AVENUE                     ,Alcohol Involvement,Unspecified,Unspecified,Unspecified,,4199468,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.68409,-73.80169,POINT (-73.80169 40.68409),LINDEN BOULEVARD                ,,,Reaction to Uninvolved Vehicle,Unspecified,,,,4198847,Sedan
+9/2/2019,BRONX,40.848404,-73.835945,POINT (-73.835945 40.848404),LAURIE AVENUE                   ,HUTCHINSON RIVER PARKWAY,,Driver Inexperience,Unspecified,,,,4200551,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.642174,-74.02064,POINT (-74.02064 40.642174),3 AVENUE                        ,60 STREET,,Unsafe Lane Changing,Unspecified,,,,4198352,Pick-up Truck
+9/2/2019,,40.86226,-73.89589,POINT (-73.89589 40.86226),VALENTINE AVENUE                ,,,,,,,,4198685,
+9/2/2019,MANHATTAN,40.746677,-73.98041,POINT (-73.98041 40.746677),,,120       EAST 34 STREET                ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4199448,Taxi
+9/2/2019,QUEENS,40.74513,-73.908485,POINT (-73.908485 40.74513),,,56-02     ROOSEVELT AVENUE              ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198469,Sedan
+9/2/2019,BRONX,40.85415,-73.88447,POINT (-73.88447 40.85415),EAST 187 STREET                 ,BEAUMONT AVENUE,,View Obstructed/Limited,,,,,4198758,Taxi
+9/2/2019,BRONX,40.832035,-73.879974,POINT (-73.879974 40.832035),,,1340      ELDER AVENUE                  ,Alcohol Involvement,Unspecified,,,,4200628,Sedan
+9/2/2019,,40.668682,-73.89987,POINT (-73.89987 40.668682),SUTTER AVENUE                   ,,,Passing or Lane Usage Improper,,,,,4199361,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.68199,-73.788414,POINT (-73.788414 40.68199),FOCH BOULEVARD                  ,155 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198882,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.715534,-73.9982,POINT (-73.9982 40.715534),,,68        BAYARD STREET                 ,Driver Inattention/Distraction,Unspecified,,,,4198849,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.8047,-73.91243,POINT (-73.91243 40.8047),BRUCKNER BOULEVARD              ,,,Unspecified,Unspecified,,,,4198274,Sedan
+9/2/2019,,40.72545,-73.837776,POINT (-73.837776 40.72545),GRAND CENTRAL PKWY              ,,,Following Too Closely,Unspecified,,,,4198588,Taxi
+9/2/2019,MANHATTAN,,,,RIVERSIDE BOULEVARD             ,WEST 61 STREET,,Backing Unsafely,Unspecified,,,,4202246,Motorcycle
+9/2/2019,,40.686527,-73.83005,POINT (-73.83005 40.686527),113 STREET                      ,,,Passing or Lane Usage Improper,Unspecified,,,,4198808,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.673107,-73.99959,POINT (-73.99959 40.673107),BROOKLYN QUEENS EXPRESSWAY      ,,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198589,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.684402,-73.86066,POINT (-73.86066 40.684402),,,94-18     80 STREET                     ,Driver Inattention/Distraction,Unspecified,,,,4200148,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.761143,-73.75549,POINT (-73.75549 40.761143),CROSS ISLAND PARKWAY            ,,,Following Too Closely,Unspecified,,,,4198452,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.631985,-73.94869,POINT (-73.94869 40.631985),,,2901      CAMPUS ROAD                   ,Unspecified,,,,,4198971,Sedan
+9/2/2019,QUEENS,40.76501,-73.8871,POINT (-73.8871 40.76501),82 STREET                       ,ASTORIA BOULEVARD,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4199574,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.69323,-73.799644,POINT (-73.799644 40.69323),,,107-56    SUTPHIN BOULEVARD             ,Passing Too Closely,Unspecified,,,,4199082,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.61141,-74.03631,POINT (-74.03631 40.61141),BELT PARKWAY                    ,,,Following Too Closely,Unspecified,,,,4198476,Sedan
+9/2/2019,,40.656437,-73.94727,POINT (-73.94727 40.656437),NEW YORK AVENUE                 ,,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4202409,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.844135,-73.93752,POINT (-73.93752 40.844135),SAINT NICHOLAS AVENUE           ,WEST 173 STREET,,Unspecified,Unspecified,,,,4200069,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.761448,-73.80288,POINT (-73.80288 40.761448),NORTHERN BOULEVARD              ,163 STREET,,Driver Inattention/Distraction,,,,,4198615,Sedan
+9/2/2019,QUEENS,40.58774,-73.809875,POINT (-73.809875 40.58774),ROCKAWAY BEACH BOULEVARD        ,BEACH 84 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198380,Sedan
+9/2/2019,BROOKLYN,40.651733,-73.93039,POINT (-73.93039 40.651733),UTICA AVENUE                    ,CHURCH AVENUE,,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4199723,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.7508,-73.99075,POINT (-73.99075 40.7508),,,435       7 AVENUE                      ,Driver Inattention/Distraction,,,,,4199614,Bike
+9/2/2019,,40.7539,-73.93871,POINT (-73.93871 40.7539),24 STREET                       ,,,Pavement Slippery,Unspecified,,,,4198688,Bike
+9/2/2019,BRONX,40.85592,-73.9172,POINT (-73.9172 40.85592),WEST 179 STREET                 ,CEDAR AVENUE,,Other Vehicular,Unsafe Speed,,,,4198687,Sedan
+9/2/2019,BRONX,40.816864,-73.882744,POINT (-73.882744 40.816864),,,772       EDGEWATER ROAD                ,View Obstructed/Limited,Unspecified,,,,4198783,Tractor Truck Diesel
+9/2/2019,BROOKLYN,40.677525,-73.86627,POINT (-73.86627 40.677525),,,1156      GLENMORE AVENUE               ,Unspecified,Unspecified,,,,4199357,Taxi
+9/2/2019,QUEENS,40.713436,-73.76119,POINT (-73.76119 40.713436),JAMAICA AVENUE                  ,CARPENTER AVENUE,,Unsafe Lane Changing,Unspecified,,,,4198506,Sedan
+9/2/2019,MANHATTAN,40.73541,-73.97515,POINT (-73.97515 40.73541),EAST 23 STREET                  ,AVENUE C,,Passing or Lane Usage Improper,Unspecified,,,,4205080,Ambulance
+9/2/2019,,40.676758,-73.917404,POINT (-73.917404 40.676758),ATLANTIC AVENUE                 ,,,Following Too Closely,Unspecified,,,,4199093,Sedan
+9/2/2019,,40.87686,-73.87974,POINT (-73.87974 40.87686),BAINBRIDGE AVENUE               ,,,Backing Unsafely,Unspecified,,,,4198523,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.748436,-73.984566,POINT (-73.984566 40.748436),5 AVENUE                        ,EAST 34 STREET,,Driver Inattention/Distraction,Unspecified,,,,4206498,Sedan
+9/2/2019,,40.606453,-73.76096,POINT (-73.76096 40.606453),DICKENS STREET                  ,MOTT AVENUE,,Using On Board Navigation Device,Unspecified,,,,4201118,Bike
+9/2/2019,BROOKLYN,40.63265,-73.94184,POINT (-73.94184 40.63265),,,1666      BROOKLYN AVENUE               ,Unspecified,Unspecified,,,,4199714,Sedan
+9/2/2019,BRONX,40.84032,-73.88769,POINT (-73.88769 40.84032),,,1821      WATERLOO PLACE                ,Passing Too Closely,Unspecified,,,,4198757,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.705906,-73.79111,POINT (-73.79111 40.705906),,,92-18     168 PLACE                     ,Passing Too Closely,Passing Too Closely,,,,4198503,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.699673,-73.940056,POINT (-73.940056 40.699673),,,805       BROADWAY                      ,Aggressive Driving/Road Rage,Unspecified,Unspecified,Unspecified,Unspecified,4198817,Station Wagon/Sport Utility Vehicle
+9/2/2019,BRONX,40.816864,-73.882744,POINT (-73.882744 40.816864),,,772       EDGEWATER ROAD                ,Backing Unsafely,Unspecified,,,,4198551,Tractor Truck Diesel
+9/2/2019,QUEENS,40.70242,-73.89848,POINT (-73.89848 40.70242),,,60-19     69 AVENUE                     ,Unspecified,,,,,4199116,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.667767,-73.87594,POINT (-73.87594 40.667767),,,428       MONTAUK AVENUE                ,Unspecified,,,,,4199350,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.604954,-73.96543,POINT (-73.96543 40.604954),EAST 7 STREET                   ,AVENUE R,,Unspecified,,,,,4198637,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.72545,-73.837776,POINT (-73.837776 40.72545),GRAND CENTRAL PKWY              ,,,Following Too Closely,Unspecified,,,,4201011,Sedan
+9/2/2019,,,,,,,34 ave    80 street                     ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4204326,Sedan
+9/2/2019,BROOKLYN,40.634075,-73.99508,POINT (-73.99508 40.634075),NEW UTRECHT AVENUE              ,52 STREET,,Unspecified,Unspecified,,,,4199324,Sedan
+9/2/2019,,,,,CROSS BAY BOULEVARD             ,DESARC ROAD,,Following Too Closely,Unspecified,Unspecified,,,4198485,Station Wagon/Sport Utility Vehicle
+9/2/2019,BRONX,40.902626,-73.85558,POINT (-73.85558 40.902626),,,4555      BRONX BOULEVARD               ,Unspecified,Unspecified,,,,4202084,Pick-up Truck
+9/2/2019,,40.826523,-73.93116,POINT (-73.93116 40.826523),MAJOR DEEGAN EXPRESSWAY         ,,,Unsafe Lane Changing,Unspecified,,,,4198767,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.75732,-73.834015,POINT (-73.834015 40.75732),,,40-24     COLLEGE POINT BOULEVARD       ,Following Too Closely,Unspecified,,,,4198616,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.604954,-73.96543,POINT (-73.96543 40.604954),AVENUE R                        ,EAST 7 STREET,,Unspecified,Unspecified,,,,4198643,Sedan
+9/2/2019,BRONX,40.862064,-73.89484,POINT (-73.89484 40.862064),EAST FORDHAM ROAD               ,TIEBOUT AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198686,Sedan
+9/2/2019,BRONX,40.85482,-73.9112,POINT (-73.9112 40.85482),UNIVERSITY AVENUE               ,WEST 179 STREET,,,,,,,4198669,
+9/2/2019,QUEENS,40.764923,-73.88663,POINT (-73.88663 40.764923),,,82-04     ASTORIA BOULEVARD             ,Backing Unsafely,Unspecified,,,,4198733,Taxi
+9/2/2019,QUEENS,40.741028,-73.93432,POINT (-73.93432 40.741028),VANDAM STREET                   ,48 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198916,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.684147,-73.87339,POINT (-73.87339 40.684147),,,103       PINE STREET                   ,Backing Unsafely,Driver Inexperience,,,,4199360,Sedan
+9/2/2019,BROOKLYN,40.639816,-73.994354,POINT (-73.994354 40.639816),NEW UTRECHT AVENUE              ,11 AVENUE,,Aggressive Driving/Road Rage,Unspecified,,,,4202271,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.773018,-73.952194,POINT (-73.952194 40.773018),EAST 80 STREET                  ,1 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4198647,Sedan
+9/2/2019,BROOKLYN,40.613647,-73.944374,POINT (-73.944374 40.613647),,,2910      NOSTRAND AVENUE               ,Turning Improperly,Unspecified,,,,4198636,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.811565,-73.942726,POINT (-73.942726 40.811565),LENOX AVENUE                    ,WEST 131 STREET,,Other Vehicular,Other Vehicular,,,,4198583,E-Bik
+9/2/2019,,40.743973,-73.8851,POINT (-73.8851 40.743973),BROADWAY                        ,,,Passenger Distraction,Unspecified,,,,4198558,Sedan
+9/2/2019,,40.757095,-73.915016,POINT (-73.915016 40.757095),BROADWAY                        ,,,Turning Improperly,Passing or Lane Usage Improper,,,,4198690,Sedan
+9/2/2019,MANHATTAN,40.758327,-73.96894,POINT (-73.96894 40.758327),3 AVENUE                        ,EAST 54 STREET,,Turning Improperly,Unspecified,,,,4198479,Sedan
+9/2/2019,STATEN ISLAND,40.604397,-74.069,POINT (-74.069 40.604397),NARROWS ROAD NORTH              ,FINGERBOARD ROAD,,Unspecified,,,,,4202061,Sedan
+9/2/2019,BRONX,40.84518,-73.91417,POINT (-73.91417 40.84518),CROSS BRONX EXPRESSWAY          ,JEROME AVENUE,,Unsafe Speed,Unspecified,,,,4198334,Sedan
+9/2/2019,QUEENS,40.698257,-73.82039,POINT (-73.82039 40.698257),130 STREET                      ,91 AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4201331,Sedan
+9/2/2019,MANHATTAN,40.71304,-73.994156,POINT (-73.994156 40.71304),,,68        HENRY STREET                  ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198857,Sedan
+9/2/2019,BROOKLYN,40.613033,-74.01057,POINT (-74.01057 40.613033),,,1413      85 STREET                     ,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198290,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.646786,-74.008575,POINT (-74.008575 40.646786),5 AVENUE                        ,47 STREET,,Driver Inattention/Distraction,Unspecified,,,,4198477,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.73995,-73.84553,POINT (-73.84553 40.73995),GRAND CENTRAL PARKWAY           ,LONG ISLAND EXPRESSWAY,,Following Too Closely,Unspecified,,,,4198494,Sedan
+9/2/2019,BRONX,40.846066,-73.881516,POINT (-73.881516 40.846066),HONEYWELL AVENUE                ,HORNADAY PLACE,,Passing Too Closely,Unspecified,,,,4198771,Sedan
+9/2/2019,BRONX,40.843643,-73.91303,POINT (-73.91303 40.843643),WALTON AVENUE                   ,EAST MOUNT EDEN AVENUE,,Backing Unsafely,Unspecified,,,,4198393,Ambulance
+9/2/2019,BROOKLYN,40.6442,-73.96595,POINT (-73.96595 40.6442),BEVERLEY ROAD                   ,RUGBY ROAD,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198962,Sedan
+9/2/2019,,40.57323,-74.14702,POINT (-74.14702 40.57323),RICHMOND HILL ROAD              ,,,Pavement Slippery,,,,,4198533,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.751442,-73.97606,POINT (-73.97606 40.751442),EAST 42 STREET                  ,LEXINGTON AVENUE,,Unspecified,Unspecified,,,,4198389,Sedan
+9/2/2019,QUEENS,40.60397,-73.75475,POINT (-73.75475 40.60397),,,10-74     BEACH 22 STREET               ,Backing Unsafely,Unspecified,,,,4200790,Sedan
+9/2/2019,BROOKLYN,40.71196,-73.9407,POINT (-73.9407 40.71196),BUSHWICK AVENUE                 ,GRAND STREET,,Driver Inattention/Distraction,Unspecified,Unspecified,Unspecified,,4199297,Sedan
+9/2/2019,,40.731163,-73.99193,POINT (-73.99193 40.731163),BROADWAY                        ,,,Passing Too Closely,Unspecified,,,,4198875,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.6552,-73.893555,POINT (-73.893555 40.6552),LOUISIANA AVENUE                ,STANLEY AVENUE,,Driver Inattention/Distraction,Unspecified,,,,4199356,Station Wagon/Sport Utility Vehicle
+9/2/2019,,,,,,,234       EAST 148 STREET               ,Unspecified,Unspecified,,,,4198488,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.772583,-73.91036,POINT (-73.91036 40.772583),36 STREET                       ,23 AVENUE,,Traffic Control Disregarded,Unspecified,Unspecified,,,4198694,Moped
+9/2/2019,BROOKLYN,40.654224,-73.93936,POINT (-73.93936 40.654224),,,805       ALBANY AVENUE                 ,Unspecified,Unspecified,,,,4204549,Sedan
+9/2/2019,,40.738194,-73.8492,POINT (-73.8492 40.738194),LONG ISLAND EXPRESSWAY          ,,,Failure to Yield Right-of-Way,Unspecified,,,,4198443,Station Wagon/Sport Utility Vehicle
+9/2/2019,BRONX,40.822117,-73.89689,POINT (-73.89689 40.822117),INTERVALE AVENUE                ,WESTCHESTER AVENUE,,Unspecified,Unspecified,,,,4198780,Taxi
+9/2/2019,BROOKLYN,40.639496,-73.93392,POINT (-73.93392 40.639496),FOSTER AVENUE                   ,EAST 45 STREET,,Driver Inattention/Distraction,Unspecified,,,,4201726,Sedan
+9/2/2019,,40.659725,-73.95681,POINT (-73.95681 40.659725),MIDWOOD STREET                  ,,,Unspecified,Unspecified,,,,4206496,Sedan
+9/2/2019,,40.799698,-73.92929,POINT (-73.92929 40.799698),FDR DRIVE                       ,,,Following Too Closely,Unspecified,,,,4198376,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.75539,-73.828285,POINT (-73.828285 40.75539),MAIN STREET                     ,MAPLE AVENUE,,Backing Unsafely,Unspecified,,,,4198625,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.701862,-73.94383,POINT (-73.94383 40.701862),BROADWAY                        ,WHIPPLE STREET,,Aggressive Driving/Road Rage,Unspecified,,,,4198892,Box Truck
+9/2/2019,BRONX,,,,,,1871      SCHIEFELIN PLACE              ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4201981,Sedan
+9/2/2019,,40.822643,-73.88606,POINT (-73.88606 40.822643),BRUCKNER EXPRESSWAY             ,,,Brakes Defective,Unspecified,Unspecified,,,4198553,Station Wagon/Sport Utility Vehicle
+9/2/2019,BROOKLYN,40.608826,-73.97284,POINT (-73.97284 40.608826),,,394       AVENUE P                      ,Unspecified,Unspecified,,,,4198642,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.73326,-73.738014,POINT (-73.738014 40.73326),HILLSIDE AVENUE                 ,232 STREET,,Unspecified,Unspecified,,,,4199164,Sedan
+9/2/2019,,40.873737,-73.90593,POINT (-73.90593 40.873737),MAJOR DEEGAN EXPRESSWAY         ,,,Driver Inattention/Distraction,Unspecified,Unspecified,,,4198856,Sedan
+9/2/2019,MANHATTAN,40.86674,-73.92873,POINT (-73.92873 40.86674),PAYSON AVENUE                   ,DYCKMAN STREET,,Traffic Control Disregarded,Unspecified,,,,4199465,Sedan
+9/2/2019,QUEENS,40.68233,-73.779816,POINT (-73.779816 40.68233),,,119-49    165 STREET                    ,Unspecified,,,,,4199414,Sedan
+9/2/2019,QUEENS,40.69795,-73.73666,POINT (-73.73666 40.69795),222 STREET                      ,115 ROAD,,Unspecified,Unspecified,Unspecified,,,4204237,Pick-up Truck
+9/2/2019,MANHATTAN,40.80232,-73.95042,POINT (-73.95042 40.80232),,,106       WEST 116 STREET               ,Following Too Closely,Unspecified,,,,4199231,Station Wagon/Sport Utility Vehicle
+9/2/2019,MANHATTAN,40.75887,-73.96428,POINT (-73.96428 40.75887),,,322       EAST 57 STREET                ,Driver Inattention/Distraction,Driver Inattention/Distraction,,,,4198472,Taxi
+9/2/2019,BROOKLYN,40.64295,-73.95356,POINT (-73.95356 40.64295),EAST 25 STREET                  ,CLARENDON ROAD,,Unsafe Speed,Unspecified,Unspecified,,,4199722,Sedan
+9/2/2019,QUEENS,40.665348,-73.72986,POINT (-73.72986 40.665348),SOUTH CONDUIT AVENUE            ,HOOK CREEK BOULEVARD,,Failure to Yield Right-of-Way,Unspecified,,,,4198499,Station Wagon/Sport Utility Vehicle
+9/2/2019,,40.764706,-73.811005,POINT (-73.811005 40.764706),154 STREET                      ,,,Backing Unsafely,Unspecified,,,,4198614,Sedan
+9/2/2019,BRONX,40.859642,-73.90534,POINT (-73.90534 40.859642),EVELYN PLACE                    ,GRAND AVENUE,,Failure to Yield Right-of-Way,,,,,4198530,Sedan
+9/2/2019,BROOKLYN,40.66345,-73.88349,POINT (-73.88349 40.66345),HEGEMAN AVENUE                  ,JEROME STREET,,Backing Unsafely,Unspecified,,,,4199351,Station Wagon/Sport Utility Vehicle
+9/2/2019,QUEENS,40.73675,-73.87767,POINT (-73.87767 40.73675),QUEENS BOULEVARD                ,BROADWAY,,Driver Inattention/Distraction,Unspecified,,,,4198489,Taxi
+9/2/2019,,40.70003,-73.78873,POINT (-73.78873 40.70003),107 AVENUE                      ,MERRICK BOULEVARD,,Unspecified,,,,,4199004,Sedan
+9/2/2019,MANHATTAN,40.745865,-73.99206,POINT (-73.99206 40.745865),,,132       WEST 27 STREET                ,Other Vehicular,,,,,4200089,Sedan
+9/2/2019,BROOKLYN,40.62032,-73.99266,POINT (-73.99266 40.62032),,,6523      17 AVENUE                     ,Unspecified,,,,,4199187,Sedan
